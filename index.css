@@ -1,0 +1,149 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: black;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+body {
+    display: table;
+}
+
+.my-block {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h2 {
+    text-align: center;
+    color: #d9fff9;
+    font-size: 80px;
+    letter-spacing: 6px;
+    font-weight: 300;
+    margin: 0;
+    line-height: 0;
+    animation: glitch1 0.5s infinite;
+}
+
+h2:nth-child(2) {
+    color: #0ef0e1;
+    animation: glitch2 1.0s infinite;
+}
+
+h2:nth-child(3) {
+    color: #ff94eb;
+    animation: glitch3 1.0s infinite;
+}
+
+@keyframes glitch1 {
+    0% {
+        transform: none;
+        opacity: 1;
+    }
+    50% {
+        transform: skew(-2deg, 0.6deg);
+        opacity: 0.75;
+    }
+    100% {
+        transform: none;
+        opacity: 1;
+    }
+}
+
+@keyframes glitch2 {
+    0% {
+        transform: none;
+        opacity: 0.25;
+    }
+    50% {
+        transform: translate(-3px, -1px);
+        opacity: 0.5;
+    }
+    100% {
+        transform: none;
+        opacity: 0.25;
+    }
+}
+@keyframes glitch3 {
+    0% {
+        transform: none;
+        opacity: 0.25;
+    }
+    50% {
+        transform: translate(3px, 1px);
+        opacity: 0.5;
+    }
+    100% {
+        transform: none;
+        opacity: 0.25;
+    }
+}
+
+h3 {
+    text-align: center;
+    color: #d9fff9;
+    font-size: 80px;
+    letter-spacing: 6px;
+    font-weight: 300;
+    margin: 0;
+    line-height: 0;
+    animation: glitch1 0.5s infinite;
+}
+
+h3:nth-child(2) {
+    color: #0ef0e1;
+    animation: glitch2 1.0s infinite;
+}
+
+h3:nth-child(3) {
+    color: #ff94eb;
+    animation: glitch3 1.0s infinite;
+}
+
+@keyframes glitch1 {
+    0% {
+        transform: none;
+        opacity: 1;
+    }
+    50% {
+        transform: skew(-2deg, 0.6deg);
+        opacity: 0.75;
+    }
+    100% {
+        transform: none;
+        opacity: 1;
+    }
+}
+
+@keyframes glitch2 {
+    0% {
+        transform: none;
+        opacity: 0.25;
+    }
+    50% {
+        transform: translate(-3px, -1px);
+        opacity: 0.5;
+    }
+    100% {
+        transform: none;
+        opacity: 0.25;
+    }
+}
+@keyframes glitch3 {
+    0% {
+        transform: none;
+        opacity: 0.25;
+    }
+    50% {
+        transform: translate(3px, 1px);
+        opacity: 0.5;
+    }
+    100% {
+        transform: none;
+        opacity: 0.25;
+    }
+}
