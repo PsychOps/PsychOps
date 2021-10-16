@@ -11,3 +11,18 @@
     color: var(--color-dark-hover);
     border-color: var(--color-dark);
 }
+
+.btn {
+    margin: 5px;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .notnavtext {
+        margin: 0;
+    }
+
+    .btn {
+        margin: 0;
+    }
+}
