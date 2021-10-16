@@ -62,13 +62,17 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         class="navbar-toggler"
         type="button"
         data-mdb-toggle="collapse"
+        data-toggle="collapse"
         data-mdb-target="#sidebarMenu"
+        data-target="#collapseOne"
         aria-controls="sidebarMenu"
         aria-expanded="true"
         aria-label="Toggle navigation"
       >
         <i class="fas fa-bars"></i>
       </button>
+
+    <!-- data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> -->
 
       <!-- Brand -->
       <a class="navbar-brand" href="#">
