@@ -1,3 +1,9 @@
+<script>
+var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
+var collapseList = collapseElementList.map(function (collapseEl) {
+  return new bootstrap.Collapse(collapseEl)
+})
+</script>
 <!--Main Navigation-->
 <header>
   <!-- Sidebar -->
@@ -58,7 +64,7 @@
         data-mdb-toggle="collapse"
         data-mdb-target="#sidebarMenu"
         aria-controls="sidebarMenu"
-        aria-expanded="false"
+        aria-expanded="true"
         aria-label="Toggle navigation"
       >
         <i class="fas fa-bars"></i>
