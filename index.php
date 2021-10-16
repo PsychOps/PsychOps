@@ -13,7 +13,7 @@
     PscychOps is a Netherlands based organization owned by <a href="https://zoniq.tk" target="_blank">Joshua</a> and <a href="#">Jay</a> dedicated to open-source software and web development with <b>3</b> developers, and an additional <b>3</b> staff members. With user experience and feedback in mind, PscychOps Development always attempts to provide its users with products that are to their liking.
     Additionally, PscychOps also functions as a hub for developers of any field. With our main discord server, we allow getting support for any coding language and our products, from both the community as well as the staff team at PscychOps.
     </p>
-    <a href="https://discord.gg/QMhvHuGPMx" class="btn btn-outline-light">Join our discord</button>
+    <a href="https://discord.gg/QMhvHuGPMx" class="btn btn-outline-light">Join our discord</a>
 </div>
 </body>
 
