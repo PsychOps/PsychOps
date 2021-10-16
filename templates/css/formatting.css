@@ -5,3 +5,9 @@
     margin-right: 50px;
     /*margin-top: 10px;*/
 }
+
+.btn-outline-light:hover {
+    background-color: var(--color-light);
+    color: var(--color-dark-hover);
+    border-color: var(--color-dark);
+}
