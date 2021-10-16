@@ -1,6 +1,7 @@
 @import "variables.css";
 
 .notnavtext {
-    padding: 20px 20px 20px 260px;
-    margin-right: 0px;
+    margin-left: 300px;
+    margin-right: 50px;
+    /*margin-top: 10px;*/
 }
