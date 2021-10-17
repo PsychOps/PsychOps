@@ -77,7 +77,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
       <!-- Brand -->
       <a class="navbar-brand" href="#">
         <img
-          src="assets/Transraxis.png"
+          src="assets/PsychOpsTransparent.png"
           height="25"
           alt=""
           loading="lazy"
@@ -87,7 +87,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
       <ul class="navbar-nav ms-auto d-flex flex-row">
         <!-- Icon -->
         <li class="nav-item me-3 me-lg-0">
-          <a class="nav-link" href="https://github.com/Modraxis" target="_blank">
+          <a class="nav-link" href="https://github.com/PsychOps" target="_blank">
             <i class="fab fa-github bg-button"></i>
           </a>
         </li>
