@@ -19,5 +19,5 @@
 
     <link rel="icon"
           type="image/png"
-          href="assets/M.png">
+          href="assets/S1.png">
 </head>
