@@ -1,0 +1,104 @@
+@import "variables.css";
+
+.cards
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
+.cards .card
+{
+   width: 330px;
+   height: 515px;
+   padding: 60px 30px;
+   margin: 20px;
+   background: #333;
+   box-shadow: -0.5em -0.5em 1em #335;
+   border-radius: 20px;
+}
+.cards
+{
+  padding-left: 100px;
+  margin-left: 100px;
+}
+.cards .card .card-content
+{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.cards .card .card-content .imgBx
+{
+   width: 180px;
+   height: 180px;
+   border-radius: 50%;
+   position: relative;
+   margin-bottom: 20px;
+   overflow: hidden;
+}
+.cards .card .card-content .imgBx img
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+.cards .card .card-content .contentBx h4
+{
+   color: #000080;
+   font-size: 1.7rem;
+   font-weight: bold;
+   text-align: center;
+   letter-spacing: 1px;
+}
+.cards .card .card-content .contentBx h5
+{
+   color: #6c758f;
+   font-size: 1.2rem;
+   font-weight: bold;
+   text-align: center;
+}
+.cards .card .card-content .contentBx p
+{
+   color: #6c758f;
+   font-size: 1rem;
+   font-weight: normal;
+   text-align: center;
+}
+.cards .card .card-content .sci
+{
+   margin-top: 20px;
+}
+.cards .card .card-content .sci a
+{
+   text-decoration: none;
+   color: #6c758f;
+   font-size: 30px;
+   margin: 10px;
+   transition: color 0.4s;
+}
+.cards .card .card-content .sci a:hover
+{
+   color: #000080;
+}
+.team-title
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.card
+{
+  transition: 500ms;
+}
+.card:hover
+{
+  filter: brightness(125%);
+  transition: 500ms;
+}

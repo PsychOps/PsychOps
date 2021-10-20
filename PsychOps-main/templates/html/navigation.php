@@ -17,7 +17,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         >
           <i class="fas fa-address-card fa-fw me-3"></i><span>About us</span>
         </a>
-        <a href="team.php" class="list-group-item list-group-item-action py-2 ripple bg-button">
+        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button">
           <i class="fas fa-users fa-fw me-3"></i><span>Our team</span>
         </a>
         <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
