@@ -7,7 +7,7 @@
 
 <body>
   <h1 class="team-title"><div>PsychOps</div>&nbsp;Team</h1>
-  <div class="cards">
+  <div class="cards notnavtext">
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
