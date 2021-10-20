@@ -17,11 +17,6 @@
    box-shadow: -0.5em -0.5em 1em #335;
    border-radius: 20px;
 }
-.cards
-{
-  padding-left: 100px;
-  margin-left: 100px;
-}
 .cards .card .card-content
 {
    display: flex;
