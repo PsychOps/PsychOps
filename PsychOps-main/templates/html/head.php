@@ -9,8 +9,6 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css" rel="stylesheet"/>
     <link rel="stylesheet" href="templates/css/navigation.css">
     <link rel="stylesheet" href="templates/css/formatting.css">
-    <link rel="stylesheet" href="templates/css/team-styles.css"
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>>
     <script src="https://kit.fontawesome.com/d1393c407a.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
