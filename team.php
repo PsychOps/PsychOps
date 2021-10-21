@@ -6,6 +6,7 @@
 <?php include 'templates/html/navigation.php' ;?>
 
 <body>
+    <div class="notnavtext">
   <h1 class="team-title"><div>PsychOps</div>&nbsp;Team</h1>
   <div class="cards">
       <div class="card">
@@ -98,6 +99,7 @@
       </div>
   </div>
 
+  </div>
   </div>
 </body>
 </html>
