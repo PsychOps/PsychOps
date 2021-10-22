@@ -75,7 +75,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
     <!-- data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> -->
 
       <!-- Brand -->
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
         <img
           src="assets/PsychOpsTransparent.png"
           height="25"
