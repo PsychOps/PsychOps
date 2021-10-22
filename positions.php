@@ -8,7 +8,7 @@
 <body>
 
 <div class="notnavtext text-center">
-    <img src="/assets/PsychOpsTransparent.png" alt="">
+    <img src="/assets/S1.png" alt="">
     <p class="fs-1">Positions</p>
     <p>
     Hello! Thank you for your interest, but we do not have any positions open at the moment.
