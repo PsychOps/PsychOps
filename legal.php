@@ -35,7 +35,7 @@
     <span class="fs-1">License</span>
     </a>
     <p>
-    All our products are open source on <a https://github.com/>GitHub</a> and are tied to the <b>GPL-3.0 (GNU General Public License v3.0)</b> license.
+    All our products are open source on <a href="https://github.com/" target="_blank">GitHub</a> and are tied to the <b>GPL-3.0 (GNU General Public License v3.0)</b> license.
     <br/>
     Anyone who chooses to use our code for their own purpose, to modify, host or for other intentions, must follow the license at all times.
     </p>
