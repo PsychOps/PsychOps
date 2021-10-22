@@ -17,8 +17,19 @@
     margin-top: 0;
 }
 
+.btn-green {
+    background-color: var(--color-main);
+    color: var(--color-light);
+    font-weight: bolder;
+}
+
 @media only screen and (max-width: 768px) {
     .notnavtext {
         margin: 0;
     }
+}
+
+.pingernos-img {
+    width: 15em;
+    height: 15em;
 }

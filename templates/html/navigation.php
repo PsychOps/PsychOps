@@ -29,7 +29,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button">
           <i class="fas fa-brain fa-fw me-3"></i><span>Healver</span>
         </a>
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
         >
         <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
@@ -75,7 +75,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
     <!-- data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> -->
 
       <!-- Brand -->
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
         <img
           src="assets/PsychOpsTransparent.png"
           height="25"
