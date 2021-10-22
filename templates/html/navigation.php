@@ -27,7 +27,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
           ><i class="fas fa-coins fa-fw me-3"></i><span>Commissions</span></a
         >
         <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button">
-          <i class="fas fa-brain fa-fw me-3"></i><span>Healver</span>
+          <i class="fas fa-cubes fa-fw me-3"></i><span>MinecraftGolden</span>
         </a>
         <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
