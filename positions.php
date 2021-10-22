@@ -11,9 +11,9 @@
     <img src="/assets/S1.png" alt="">
     <p class="fs-1">Positions</p>
     <p>
-    Hello! Thank you for your interest, but we do not have any positions open at the moment.
+    There are currently no open positions, sorry!<br/>Want to know when positions open? Join our discord server!
     </p>
-    <a href="https://discord.gg/QMhvHuGPMx" class="btn bg-green btn-rounded">Join our discord to know when positions open</a>
+    <a href="https://discord.gg/QMhvHuGPMx" class="btn bg-green btn-rounded">Central discord server</a>
 </div>
 </body>
 
