@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<?php include 'templates/html/head.php' ;?>
+<?php include 'templates/html/head.html' ;?>
 
 <?php include 'templates/html/navigation.php' ;?>
 
