@@ -17,7 +17,7 @@
     margin-top: 0;
 }
 
-.btn-exaroton-green {
+.bg-green {
     background-color: var(--color-main);
     color: var(--color-light);
     font-weight: bolder;
