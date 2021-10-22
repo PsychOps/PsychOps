@@ -7,12 +7,12 @@
 
 <body>
     <div class="notnavtext">
-  <h1 class="team-title"><div>PsychOps</div>&nbsp;Team</h1>
+    <p class="fs-1">Our Team</p>
   <div class="cards">
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://zoniq.tk" target="_blank"><img src="assets/Zoniq.png" alt=""></a>
+                  <a href="https://zoniq.tk" target="_blank"><img src="assets/MusicHog.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Joshua</h4>
