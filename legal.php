@@ -9,7 +9,11 @@
 
 <div class="notnavtext text-center" id="privacy">
     <img src="/assets/S1.png" alt="">
-    <p class="fs-1">Privacy Policy</p>
+    <br>
+    <a href=#privacy class="txt-white">
+    <i class="fas fa-link fa-2x"></i>
+    <span class="fs-1">Privacy Policy</span>
+    </a>
     <p>
     Our ("PsychOps Org.") bots ("Pingernos", "Healver", "PsychOps") do not gather any data from it's users.
     <br/>Similarly, our website ("PsychOps") does not contain cookies, and does not gather data.
@@ -26,7 +30,10 @@
 
 <div class="notnavtext text-center" id="license">
     <hr>
-    <p class="fs-1">License</p>
+    <a href=#license class="txt-white">
+    <i class="fas fa-link fa-2x"></i>
+    <span class="fs-1">License</span>
+    </a>
     <p>
     All our products are open source on <a https://github.com/>GitHub</a> and are tied to the <b>GPL-3.0 (GNU General Public License v3.0)</b> license.
     <br/>
