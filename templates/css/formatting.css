@@ -15,6 +15,13 @@
 .btn {
     margin: 5px;
     margin-top: 0;
+    border: none;
+    display: inline-block;
+}
+
+.btn-rounded {
+    border-left-radius: 50%;
+
 }
 
 .bg-green {
