@@ -6,7 +6,7 @@
 <?php include 'templates/html/navigation.php' ;?>
 
 <body>
-    <div class="notnavtext">
+    <div class="notnavtext text-center">
     <p class="fs-1">Our Team</p>
   <div class="cards">
       <div class="card">
