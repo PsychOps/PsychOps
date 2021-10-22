@@ -21,7 +21,10 @@
 
 .btn-rounded {
     border-left-radius: 50%;
+}
 
+.txt-white {
+    color: var(--color-light)
 }
 
 .bg-green {
