@@ -6,8 +6,8 @@
 <?php include 'templates/html/navigation.php' ;?>
 
 <body>
-    <div class="notnavtext">
-  <h1 class="team-title"><div>PsychOps</div>&nbsp;Team</h1>
+    <div class="notnavtext text-center">
+    <p class="fs-1">Our Team</p>
   <div class="cards">
       <div class="card">
           <div class="card-content">
@@ -27,12 +27,12 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://jaythephq.github.io/" target="_blank"><img src="assets/Jay.png" alt=""></a>
+                  <a href="https://aboutjay.tk/" target="_blank"><img src="assets/Jay.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Jay</h4>
                   <h5>Manager</h5>
-                  <p>Hey! Im Jason, mainly known as Fridge or Jay. I'm 15y/o and since this is more of just a short description, read more <a href="https://jaythephq.github.io/" target="_blank">here</a>.</p>
+                  <p>Hey! Im Jason, mainly known as Fridge or Jay. I'm 15y/o and since this is more of just a short description, read more <a href="https://aboutjay.tk/" target="_blank">here</a>.</p>
               </div>
               <div class="sci">
                   <a href="https://github.com/JayThePHQ" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
