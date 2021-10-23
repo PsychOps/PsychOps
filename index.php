@@ -8,6 +8,7 @@
 <body>
 
 <div class="notnavtext text-center">
+    <img src="/assets/S1.png" alt="">
     <p class="fs-1">About PsychOps</p>
     <p>
     PsychOps is a Netherlands based organization owned by <a href="https://zoniq.tk" target="_blank">Joshua</a> and <a href="https://aboutjay.tk/" target="_blank">Jay</a> dedicated to open-source software and web development with <b>3</b> developers, and an additional <b>3</b> staff members. With user experience and feedback in mind, PsychOps Development always attempts to provide its users with products that are to their liking.
