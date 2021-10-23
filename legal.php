@@ -16,10 +16,10 @@
     </a>
     <p>
     Our ("PsychOps Org.") bots ("Pingernos", "Healver", "PsychOps") do not gather any data from it's users.
-    <br/>Similarly, our website ("PsychOps") does not contain cookies, and does not gather data.
+    <br/>Similarly, our website ("PsychOps") does not use cookies, and does not gather data.
     </p>
     <p>
-    We ("PsychOps Org.") and the PsychOps Org. owners ("Joshua Slui" and "Jason Musser") do not hold accountability or liability for any issues found with our products when not sourced by PsychOps Org.
+    We ("PsychOps Org.") and the PsychOps Org. owners ("Joshua Slui" and "Jason Musser") do not hold accountability nor liability for any issues found with our products when not sourced by PsychOps Org.
     </p>
     <p>
     For any concerns or questions, please contact us below.
