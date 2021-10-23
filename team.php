@@ -12,7 +12,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://zoniq.tk" target="_blank"><img src="assets/MusicHog.png" alt=""></a>
+                  <a href="https://zoniq.tk" target="_blank"><img src="assets/team/MusicHog.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Joshua</h4>
@@ -27,7 +27,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://aboutjay.tk/" target="_blank"><img src="assets/Jay.png" alt=""></a>
+                  <a href="https://aboutjay.tk/" target="_blank"><img src="assets/team/Jay.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Jay</h4>
@@ -42,7 +42,7 @@
       <div class="card">
         <div class="card-content">
             <div class="imgBx">
-                <img src="assets/Etile.png" alt="">
+                <img src="assets/team/Etile.png" alt="">
             </div>
             <div class="contentBx">
                 <h4>Etile</h4>
@@ -56,7 +56,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://vennen.me/" target="_blank"><img src="assets/Julian.png" alt=""></a>
+                  <a href="https://vennen.me/" target="_blank"><img src="assets/team/Julian.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Julian</h4>
@@ -71,7 +71,7 @@
       <div class="card">
         <div class="card-content">
             <div class="imgBx">
-                <a href="https://connor.is-a.dev" target="_blank"><img src="assets/Connor.png" alt=""></a>
+                <a href="https://connor.is-a.dev" target="_blank"><img src="assets/team/Connor.png" alt=""></a>
             </div>
             <div class="contentBx">
                 <h4>Connor</h4>
@@ -86,7 +86,7 @@
     <div class="card">
       <div class="card-content">
           <div class="imgBx">
-              <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/Hilex23.png" alt=""></a>
+              <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/team/Hilex23.png" alt=""></a>
           </div>
           <div class="contentBx">
               <h4>Hilex23</h4>
