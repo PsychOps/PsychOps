@@ -1,0 +1,48 @@
+@import "variables.css";
+
+body, html {
+ background-color: var(--color-main);
+ font-family: var(--font-main);
+}
+
+.topspace-10 {
+ padding-top: 10px;
+ margin-top: 10px;
+}
+
+.topspace-20 {
+ padding-top: 20px;
+ margin-top: 20px;
+}
+
+.topspace-25 {
+ padding-top: 25px;
+ margin-top: 25px;
+}
+
+.topspace-50 {
+ padding-top: 50px;
+ margin-top: 50px;
+}
+
+.container {
+ font-family: var(--font-main);
+ /*font-weight: bolder;*/
+ font-size: 125%;
+}
+
+.background {
+ background-color: var(--color-main);
+}
+
+.bold {
+ font-weight: bold;
+}
+
+.explicified {
+ color: var(--color-secondary-text);
+}
+
+.textwidth {
+ width: 50%
+}
