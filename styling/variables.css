@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
+:root {
+    --font-main: "Play", sans-serif;
+    --font-mono: "Space Mono", monospace;
+    --bold: 600;
+    --extra-bold: 800;
+
+    --color-light: #2156;
+    --color-main: rgb(205, 224, 224);
+    --color-secondary-text: rgb(61, 65, 180);
+    --color-main-text: #4a5568;
+
+    --color-dark-hover: #2156;
+    --color-dark-text: #2156;
+    --color-dark-mark: #2156;
+}
