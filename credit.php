@@ -24,7 +24,7 @@
 
 <div class="notnavtext text-center">
     <ul>
-        <li> <a href="https://github.com/Aresiel"> <b>Aresiel</b> </a> - Contributed to Healver bot and the PsychOps website. </li>
+        <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to Healver bot and the PsychOps website. </li>
 </div>
 
 </body>

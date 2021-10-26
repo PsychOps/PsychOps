@@ -24,8 +24,8 @@
     <p>
     For any concerns or questions, please contact us below.
     </p>
-    <a href="https://discord.gg/QMhvHuGPMx" class="btn bg-green btn-rounded">Discord</a>
-    <a href="mailto:psychopsorg@gmail.com" class="btn bg-green btn-rounded">Mail us</a>
+    <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Discord</a>
+    <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us</a>
 </div>
 
 <div class="notnavtext text-center" id="license">
@@ -39,7 +39,7 @@
     <br/>
     Anyone who chooses to use our code for their own purpose, to modify, host or for other intentions, must follow the license at all times.
     </p>
-    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" class="btn bg-green btn-rounded">See License</a>
+    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" class="btn bg-green btn-rounded">See License</a>
 </div>
 </body>
 
