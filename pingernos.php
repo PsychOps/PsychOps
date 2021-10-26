@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<?php include 'templates/html/head.php' ;?>
+<?php include 'templates/html/head.html' ;?>
 
 <?php include 'templates/html/navigation.php' ;?>
 
@@ -17,7 +17,7 @@
     <img src="assets/Pingernos.png" alt="" class="pingernos-img">
     <br>
     <br>
-    <a href="https://discordextremelist.xyz/en-US/bots/889197952994791434" target="_blank" class="btn btn-green">Pingernos website</a>
+    <a href="https://discordextremelist.xyz/en-US/bots/889197952994791434" target="_blank" class="btn bg-green btn-rounded">Pingernos website</a>
 </div>
 </body>
 

@@ -20,28 +20,28 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         <a href="team.php" class="list-group-item list-group-item-action py-2 ripple bg-button">
           <i class="fas fa-users fa-fw me-3"></i><span>Our team</span>
         </a>
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="positions.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-laptop-code fa-fw me-3"></i><span>Open positions</span></a
         >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="associates.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+          ><i class="fas fa-handshake fa-fw me-3"></i><span>Associates</span></a
+        >
+        <a href="commissions.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-coins fa-fw me-3"></i><span>Commissions</span></a
         >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button">
-          <i class="fas fa-brain fa-fw me-3"></i><span>Healver</span>
+        <a href="mg.php" class="list-group-item list-group-item-action py-2 ripple bg-button">
+          <i class="fas fa-cubes fa-fw me-3"></i><span>MinecraftGolden</span>
         </a>
         <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
         >
         <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
-          ><i class="fas fa-handshake fa-fw me-3"></i><span>associates</span></a
+          ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span></a
         >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
-          ><i class="fas fa-network-wired fa-fw me-3"></i><span>network</span></a
-        >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="credit.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-award fa-fw me-3"></i><span>Credit</span></a
         >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="legal.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-balance-scale fa-fw me-3"></i><span>Legal</span></a
         >
         <!--

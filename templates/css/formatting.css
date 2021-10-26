@@ -15,9 +15,19 @@
 .btn {
     margin: 5px;
     margin-top: 0;
+    border: none;
+    display: inline-block;
 }
 
-.btn-green {
+.btn-rounded {
+    border-left-radius: 50%;
+}
+
+.txt-white {
+    color: var(--color-light)
+}
+
+.bg-green {
     background-color: var(--color-main);
     color: var(--color-light);
     font-weight: bolder;
