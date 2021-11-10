@@ -19,7 +19,7 @@
     <br/> <br/>
     <b>Page name: <code> <?php echo basename($_SERVER['PHP_SELF'],'.php') ;?> </code> </b>
     </p>
-    <a href="https://github.com/PsychOps/PsychOps/issues/new?assignees=ScourgeTheHedgehog&labels=bug&template=404---page-not-found.md&title=%5B404%5D+Page+Not+Found" class="btn bg-green btn-rounded">Create an issue</a>
+    <a href="https://github.com/PsychOps/PsychOps/issues/new" class="btn bg-green btn-rounded">Create an issue</a>
 </div>
 </body>
 </html>
