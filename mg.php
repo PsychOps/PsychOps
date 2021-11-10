@@ -25,7 +25,7 @@
 
 <div class="notnavtext text-center">
     <a class="btn bg-green btn-rounded" href=#survival>Jump to survival</a>
-    <a class="btn bg-green btn-rounded" href="https://discord.gg/2AvJj68JMU">Join the discord</a>
+    <a class="btn bg-green btn-rounded" href="https://discord.gg/2AvJj68JMU" target="_blank">Join the discord</a>
 </div>
 
 <div class="notnavtext text-center" id=hub>

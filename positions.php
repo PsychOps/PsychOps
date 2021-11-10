@@ -13,7 +13,7 @@
     <p>
     There are currently no open positions, sorry!<br/>Want to know when positions open? Join our discord server!
     </p>
-    <a href="https://discord.gg/QMhvHuGPMx" class="btn bg-green btn-rounded">Central discord server</a>
+    <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Central discord server</a>
 </div>
 </body>
 
