@@ -35,7 +35,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
         >
-        <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
           ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span></a
         >
         <a href="credit.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
