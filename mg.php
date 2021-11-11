@@ -19,7 +19,7 @@
 
 <div class="notnavtext text-center">
     <p>
-    You can join us at <b>minecraftgolden.aternos.me</b>. To know when the server is online, join the discord server below or use <a href="pingernos.php">Pingernos</a> (<code>ping status minecraftgolden</code>)
+    You can join us at <b>minecraftgolden.aternos.me</b>. To know when the server is online, join the discord server below or use <a href="pingernos.php">Pingernos</a> (<code><@889197952994791434> status minecraftgolden</code>)
     </p>
 </div>
 
