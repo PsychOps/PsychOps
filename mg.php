@@ -8,7 +8,7 @@
 <body>
 
 <div class="notnavtext text-center">
-    <img src="/assets/MG/MG-transparent" alt="" class="mcgolden-img">
+    <img src="/assets/MG/MG-transparent.png" alt="" class="mcgolden-img">
     <p class="fs-1">MinecraftGolden</p>
     <p>
     MinecraftGolden is a minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program.
