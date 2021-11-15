@@ -32,7 +32,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="mg.php" target="_blank"><img src="assets/MG/MG.png" alt=""></a>
+                  <a href="mg.php"><img src="assets/MG/MG.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>MinecraftGolden</h4>
@@ -44,11 +44,11 @@
       <div class="card">
         <div class="card-content">
             <div class="imgBx">
-                <img src="assets/network/TheCabin.png" alt="">
+                <a href="https://discord.gg/tPXDRFk6ez" target="_blank"><img src="assets/network/TheCabin.png" alt=""></a>
             </div>
             <div class="contentBx">
                 <h4>The Cabin</h4>
-                <h5>LGBTQ+ Advise & community</h5>
+                <h5>LGBTQ+ Advise & Community</h5>
                 <p>Hi! We are a safe haven for members of the LGBTQ+ community, offering advice, and a lot more to anyone that finds us!</p>
             </div>
         </div>
@@ -61,7 +61,7 @@
               <div class="contentBx">
                   <h4>The Haven</h4>
                   <h5>Community</h5>
-                  <p>Currently no information available about this affiliate. Try joining their discord server to know more about them.</p>
+                  <p>Hey there! This is the Haven, a small place to talk about code, or just talk. Come in and take a look!</p>
               </div>
           </div>
       </div>

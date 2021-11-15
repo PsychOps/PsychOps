@@ -24,7 +24,9 @@
 
 <div class="notnavtext text-center">
     <ul>
-        <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to Healver bot and the PsychOps website. </li>
+        <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to <a href="https://github.com/PsychOps/healver" target="_blank">Healver bot</a> and the <a href="https://psychops.tk/credit.php" target="_blank">PsychOps website</a>. </li>
+        <li> <a href="https://github.com/DuckMasterAl" target="_blank"> <b>DuckMasterAl</b> </a> - Contributed to <a href="https://github.com/PsychOps/spyro" target="_blank">Spyro bot</a> and <a href="https://github.com/PsychOps/htll" target="_blank">Joshua's school's student council website</a>. </li>
+        <li> <a href="https://github.com/FennyNoFloofy" target="_blank"> <b>FennyNoFloofy</b> </a> - Contributed to <a href="https://github.com/PsychOps/htll" target="_blank">Joshua's school's student council website</a>. </li>
 </div>
 
 </body>
