@@ -48,3 +48,14 @@
     width: 50em;
     height: 50em;
 }
+
+.fa-github {
+    padding: 0;
+    margin: 0;
+    transition: 500ms;
+}
+
+.fa-github {
+    color: white;
+    transition: 500ms;
+}
