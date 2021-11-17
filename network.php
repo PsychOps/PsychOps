@@ -37,7 +37,7 @@
               <div class="contentBx">
                   <h4>MinecraftGolden</h4>
                   <h5>Minecraft Server</h5>
-                  <p>MinecraftGolden is a minecraft server hosted through Aternos. Owned by Bench182 and managed by PsychOps as part of our community program, offering both survival and duels.</p>
+                  <p>MinecraftGolden is a Minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program, offering both survival and duels.</p>
               </div>
           </div>
       </div>

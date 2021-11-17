@@ -53,3 +53,18 @@ body {
 .icon-green {
     color: var(--color-main);
 }
+
+.fa-github {
+    padding: 0;
+    margin: 0;
+    transition: 500ms;
+}
+
+.fa-github:hover {
+    filter: invert(50%);
+    transition: 500ms;
+}
+
+.fa-transparent {
+    background: transparent;
+}

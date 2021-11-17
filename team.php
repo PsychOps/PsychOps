@@ -86,7 +86,7 @@
     <div class="card">
       <div class="card-content">
           <div class="imgBx">
-              <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/team/Hilex23.png" alt=""></a>
+              <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/team/Hilex23Avatar.png" alt=""></a>
           </div>
           <div class="contentBx">
               <h4>Hilex23</h4>

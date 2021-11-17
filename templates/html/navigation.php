@@ -78,6 +78,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
       <a class="navbar-brand" href="index.php">
         <img
           src="assets/PsychOpsTransparent.png"
+          class="navbar-ps"
           height="25"
           alt=""
           loading="lazy"
@@ -88,7 +89,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         <!-- Icon -->
         <li class="nav-item me-3 me-lg-0">
           <a class="nav-link" href="https://github.com/PsychOps" target="_blank">
-            <i class="fab fa-github bg-button"></i>
+            <i class="fab fa-github bg-button fa-transparent fa-2x"></i>
           </a>
         </li>
       </ul>
