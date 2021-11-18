@@ -21,6 +21,8 @@
               </div>
               <div class="sci">
                   <a href="https://github.com/ScourgeTheHedgehog" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                  <a href="https://twitter.com/FazeHedgehog" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                  <a href="https://discord.com/users/843866750131109909" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
               </div>
           </div>
       </div>
@@ -36,6 +38,8 @@
               </div>
               <div class="sci">
                   <a href="https://github.com/JayThePHQ" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                  <a href="https://twitter.com/JayThePHQ" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                  <a href="https://discord.com/users/820190411842781216" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
               </div>
           </div>
       </div>
@@ -50,6 +54,7 @@
                 <p>Hi! I'm Etile and I'm extremely inactive here >.<</p>
             </div>
             <div class="sci">
+            <a href="https://discord.com/users/856910332290007071" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
@@ -65,6 +70,8 @@
               </div>
               <div class="sci">
                   <a href="https://github.com/JulianVennen" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                  <a href="https://twitter.com/Mc88Donalds" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                  <a href="https://discord.com/users/282825580141871104" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
               </div>
           </div>
       </div>
@@ -80,6 +87,8 @@
             </div>
             <div class="sci">
                 <a href="https://github.com/ConnorDoesDev" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                <a href="https://twitter.com/ConnorDev_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="https://discord.com/users/744603004493365330" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
@@ -95,6 +104,8 @@
           </div>
           <div class="sci">
               <a href="https://github.com/Hilex23" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+              <a href="https://twitter.com/hilex23" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+              <a href="https://discord.com/users/370258256775479307" target="_blank"><i class="fa fa-discord" aria-hidden="true"></i></a>
           </div>
       </div>
   </div>

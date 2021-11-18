@@ -61,7 +61,7 @@ body {
 }
 
 .fa-github:hover {
-    filter: invert(50%);
+    filter: invert(100%);
     transition: 500ms;
 }
 
