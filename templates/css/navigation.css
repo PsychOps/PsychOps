@@ -61,10 +61,6 @@ body {
 }
 
 .fa-github:hover {
-    filter: invert(100%);
+    color: #767676;
     transition: 500ms;
-}
-
-.fa-transparent {
-    background: transparent;
 }

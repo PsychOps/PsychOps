@@ -89,7 +89,7 @@ var collapseList = collapseElementList.map(function (collapseEl) {
         <!-- Icon -->
         <li class="nav-item me-3 me-lg-0">
           <a class="nav-link" href="https://github.com/PsychOps" target="_blank">
-            <i class="fab fa-github bg-button fa-transparent fa-2x"></i>
+            <i class="fab fa-github bg-button fa-2x" aria-hidden="true"></i>
           </a>
         </li>
       </ul>
