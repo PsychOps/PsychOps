@@ -21,7 +21,7 @@
                 You can use <code>>>help</code> to view a list of all the available commands.
             </p>
             <br>
-            <a href="https://discord.com/invite/gPZNGANWCE" target="_blank" class="btn bg-green btn-rounded">Join server</a>
+            <a href="https://discord.com/invite/gPZNGANWCE" class="btn bg-green btn-rounded">Join server</a>
             <a href="https://discord.com/oauth2/authorize?client_id=909560157116170250&permissions=412384349248&scope=bot%20applications.commands" target="_blank" class="btn bg-green btn-rounded">Invite bot</a>
         </div>
 </body>
