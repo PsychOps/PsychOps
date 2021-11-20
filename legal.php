@@ -16,7 +16,7 @@
     </a>
     <p>
     Our ("PsychOps Org.") bots ("Pingernos", "Healver", "PsychOps") do not gather any data from it's users.
-    <br/>Similarly, our website ("PsychOps") does not use cookies, and does not gather data.
+    <br/>Our website ("PsychOps") uses Google Analytics to gather analytics about page visits for research purposes. Read Google's privacy policy <a href="https://policies.google.com/privacy">here</a>.
     </p>
     <span class="fs-3">BadWolf Bot</span>
     <p>
