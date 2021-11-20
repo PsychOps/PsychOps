@@ -20,7 +20,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="badwolf.php" target="_blank"><img src="assets/network/BadWolf.png" alt=""></a>
+                  <a href="badwolf.php"><img src="assets/network/BadWolf.png" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>Bad Wolf</h4>
