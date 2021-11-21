@@ -1,9 +1,4 @@
-<script>
-    var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
-    var collapseList = collapseElementList.map(function (collapseEl) {
-      return new bootstrap.Collapse(collapseEl)
-    })
-    </script>
+</script>
     <!--Main Navigation-->
     <header>
       <!-- Sidebar -->
@@ -33,7 +28,7 @@
               ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
             >
             <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
-              ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span></a
+              ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span><i class="fas fa-sort-down"></i></a
             >
             <a href="badwolf.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
                 <i class="fas fa-paw fa-fw me-3"></i><span>Bad Wolf</span></a
