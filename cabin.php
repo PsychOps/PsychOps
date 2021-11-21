@@ -12,7 +12,7 @@
                     <br>
                     <br>
                     <p>
-                        The Cabin is a friendly and tight community designed to be a safe haven for members of the LGBTQ+ community.
+                        The Cabin is a friendly and tight community designed to be a safe haven for members of the LGBTQ+ community owned by <a href="https://zoniq.tk" target="_blank">Joshua</a> and <a href="https://aboutjay.tk/" target="_blank">Jay</a>.
                         <br>
                         Our goal is to keep the haters and "bad actors" out while letting members of the LGBTQ+ community and "allies" join in and have fun, offer/receive advice and more.
                         <br>

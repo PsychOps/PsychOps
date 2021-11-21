@@ -44,6 +44,9 @@
             <a href="cabin.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
                 <i class="fas fa-heartbeat fa-fw me-3"></i><span>The Cabin</span></a
             >
+            <a href="haven.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
+                <i class="fas fa-code fa-fw me-3"></i><span>The Haven</span></a
+            >
             <a href="credit.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
               ><i class="fas fa-award fa-fw me-3"></i><span>Credit</span></a
             >

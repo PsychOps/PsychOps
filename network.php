@@ -56,12 +56,12 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="https://discord.gg/u6FKYxKGBc" target="_blank"><img src="assets/network/Haven.webp" alt=""></a>
+                  <a href="haven.php" target="_blank"><img src="assets/network/Haven.webp" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>The Haven</h4>
                   <h5>Community</h5>
-                  <p>Hey there! This is the Haven, a small place to talk about code, or just talk. Come in and take a look!</p>
+                  <p>Hey there! This is The Haven, a small place to talk about code, or just talk. Come in and take a look!</p>
               </div>
           </div>
       </div>
