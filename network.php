@@ -44,7 +44,7 @@
       <div class="card">
         <div class="card-content">
             <div class="imgBx">
-                <a href="https://discord.gg/tPXDRFk6ez" target="_blank"><img src="assets/network/TheCabin.png" alt=""></a>
+                <a href="cabin.php" target="_blank"><img src="assets/network/TheCabin.png" alt=""></a>
             </div>
             <div class="contentBx">
                 <h4>The Cabin</h4>
