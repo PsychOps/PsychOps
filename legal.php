@@ -7,59 +7,113 @@
 
 <body>
 
-<div class="notnavtext text-center" id="privacy">
-    <img src="/assets/S1.png" alt="">
-    <br>
-    <a href=#privacy class="txt-white">
-    <i class="fas fa-link fa-2x"></i>
-    <span class="fs-1">Privacy Policy</span>
-    </a>
-    <p>
-    Our ("PsychOps Org.") bots ("Pingernos", "Healver", "PsychOps") do not gather any data from it's users.
-    <br/>Our website ("PsychOps") uses Google Analytics to gather analytics about page visits for research purposes. Read Google's privacy policy <a href="https://policies.google.com/privacy">here</a>.
-    </p>
-    <span class="fs-3">BadWolf Bot</span>
-    <p>
-    BadWolf bot (Belonging to "Bad Wolf Org.") gathers data to function in a proper manner. This data can be removed per request, but it may take up to 7 days for all your data to be gathered and deleted by our team. Any of the gathered data is only accessible to the BadWolf owners - Etile and Joshua.
-    <br/>
-    <br/>
-    </p>
-    <span class="fs-3">BadWolf data collection</span>
-    <p>
-    We collect Guild IDs (guild prefixes, guild blacklist*) and User IDs (suggestions, user blacklists*). We need to store this data for guild prefixes and guild blacklists to remain guild specific. User IDs are collected for suggestions so that we can inform a member about their suggestion status without them being in our support server. <b>Your data is not provided, sold or shared to any 3d party vendors or parties.</b>
-    <br>
-    * These are only gathered if a guild or user gets blacklisted on our bot, together with the respective reason.
-    </p>
-</div>
-<div class="notnavtext text-center" id="liability">
-    <hr>
-        <a href=#liability class="txt-white">
-        <i class="fas fa-link fa-2x"></i>
-        <span class="fs-1">Liability</span>
-        </a>
-    <p>
-    We ("PsychOps Org.", "BadWolf Org.") and the PsychOps Org. owners ("Joshua Slui" and "Jason Musser") as well as the BadWolf Org. owners ("Joshua Slui", "Etile") do not hold accountability nor liability for any issues found with our products when not sourced by PsychOps Org.
-    </p>
-    <p>
-    For any concerns or questions, please contact us below.
-    </p>
-    <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Discord</a>
-    <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us</a>
+<div class="notnavtext" id="section1">
+    <h1 class="fs-1 text-center">Privacy Policy</h1>
+    <p style="font-weight: bold" class="sectionstart">Last updated November 20 2021</p>
+
+<div class="content">
+    <h1 class="fs-4">Table Of Contents</h1>
+    <ul>
+    <li> <a href=#introduction>Introduction</a> </li>
+    <li> <a href=#collected>Information we collect and how we use it</a> </li>
+    <li> <a href=#how>How we collect data</a> </li>
+    <li> <a href=#children>Children under the age of 16</a> </li>
+    <li> <a href=#changes>Privacy Policy changes</a> </li>
+    <li> <a href=#removal>Data removal requests</a> </li>
+    <li> <a href=#contact>Contact Us</a> </li>
+    </ul>
 </div>
 
-<div class="notnavtext text-center" id="license">
-    <hr>
-    <a href=#license class="txt-white">
-    <i class="fas fa-link fa-2x"></i>
-    <span class="fs-1">License</span>
-    </a>
-    <p>
-    All our products are open source on <a href="https://github.com/" target="_blank">GitHub</a> and are tied to the <b>GPL-3.0 (GNU General Public License v3.0)</b> license.
-    <br/>
-    Anyone who chooses to use our code for their own purpose, to modify, host or for other intentions, must follow the license at all times.
-    </p>
-    <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank" class="btn bg-green btn-rounded">See License</a>
+    <div class="sectionstart textend">
+        <p>
+        PsychOps' mission is to deliver completely free and open source products to anyone as alternative to paid software, or as entertainment product. To ensure that our mission succeeds, we have to gather certain data from our users for our products. While we gather data, we do wish to be as transparent and respectful about it as we can.
+        <br/> <br/>
+        This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
+        </p>
+    </div>
 </div>
+
+<div class="notnavtext textend" id="introduction">
+    <div class="sectionstart">
+        <h1 class="fs-2">Introduction</h1>
+        <p>
+        PsychOps develops and maintains public, open-source websites and Discord bots at no cost. "PsychOps", "BadWolf", "we", "our" or "us" in this privacy policy refers to PsychOps Org. as well as any of its subsidiaries.
+        <br/>
+        PsychOps is a software development organisation situated in The Netherlands. PsychOps follows the laws laid onto companies by the European Union and will not under any circumstances follow other laws despite being globally available. Users situated outside of the EU are by exception still allowed to invoke European rights in relation to data deletion or any other legal circumstances.
+    </div>
+</div>
+
+<div class="notnavtext textend" id="collected">
+    <div class="sectionstart">
+        <h1 class="fs-2">Information we collect and how we use it</h1>
+        <p>We only gather the data listed below. Please note; <b>This data is only gathered once you start using our Services and specifically the parts that require that specific type of data.</b> What Service including which part of the Service gathers what data is also included below.</p>
+        <h1 class="fs-4" id="website">Website</h1>
+        <p>
+            <lu>
+                <li>Cookies</li>
+                <li>Browser and the browser version</li>
+                <li>Operating System</li>
+                <li>Device Type</li>
+            </lu>
+        </p>
+        <p>All this data is collected by Google Analytics for Google Analytics. This way we can see information and data about our website visitors including but not limited to the user amount. Additionally, we can use this data to adjust our website to fit the needs of our users. <b>Note that we can not guarantee the accuracy of this list as it's collected by Google Analytics, rather than us.</b> </p>
+        <hr>
+        <h1 class="fs-4" id="badwolf">BadWolf bot</h1>
+        <p>
+            <lu>
+                <li>User ID (Collected with suggestions and blacklist)</li>
+                <li>GUild ID (Collected with guild prefixes and blacklist)</li>
+            </lu>
+        </p>
+        <p>We require this data to make sure the bot works properly. User IDs are collected for suggestions so the bot can send Direct Messages to the user who submitted a suggestion upon denial or approval. Additionally, the guild ID is needed for the guild prefixes to work only on one guild, rather than all of them. Lastly, the guild ID and user ID are used in the blacklist to ensure a guild or user can not use the bot if blacklisted. This data is only collected upon execution of the appropiate commands.</p>
+        <hr>
+        <h1 class="fs-4" id="pingernos">Pingernos</h1>
+        <p>No data is collected for this bot.</p>
+    </div>
+</div>
+
+<div class="notnavtext textend" id="how">
+    <div class="sectionstart">
+        <h1 class="fs-2">How we collect data</h1>
+        <p>The data collected by Google Analytics within the PsychOps website is collected as soon as the user enters the website, and is sent to the Google Analytics panel that is accessible only to the PsychOps owner ("Joshua Slui"). Meanwhile, the BadWolf bot collects data as soon as the appropiate commands are executed. These commands are listed below:</p>
+        <ul>
+            <li>suggest</li>
+            <li>prefix set</li>
+            <li>blacklist user</li>
+            <li>blacklist guild</li>
+        </ul>
+        <p>The bot can not collect data unless this data is explicitly given through these commands. Entering data into the database manually is possible, but does not happen unless the relative user gives consent and unless the process follows the GDPR laws set by the European Union.
+    </div>
+</div>
+
+<div class="notnavtext textend" id="children">
+    <div class="sectionstart">
+        <h1 class="fs-2">Children under the age of 16</h1>
+        <p>According to <a href="https://gdpr-info.eu/art-8-gdpr/">GDPR Article 8</a>, it is not legally allowed to gather data of users under 16 without their, or their guardian's explicit consent. We do not knowingly gather data of people below 16, and our website is not dedicated to anyone under that age. If you are below this age, please consider clearing your cookies, cache and closing this tab.</p>
+    </div>
+</div>
+
+<div class="notnavtext textend" id="changes">
+    <div class="sectionstart">
+        <h1 class="fs-2">Privacy Policy changes</h1>
+        <p>We might update our Privacy Policy to reflect any changes in data collection or within the Privacy Policy, as well as to satisfy legal requirements. An announcement will be sent out at least 7 days in advance to notify our users about the relative changes.
+    </div>
+</div>
+
+<div class="notnavtext textend" id="removal">
+    <div class="sectionstart">
+    <h1 class="fs-2">Data removal requests</h1>
+    <p>It is possible to get your data on BadWolf removed on request. For that, please <a href=#contact>contact us</a> and submit the data you want removed, additionally with the reason. Of course, we require your user ID or guild ID as well, depending on what data you want removed. <b>Removing this data may take up to 3 days, please be patient and wait for a team member to get to you upon sending in your request.</b>
+    </div>
+</div>
+
+<div class="notnavtext textend" id="contact">
+    <div class="sectionstart">
+        <h1 class="fs-2">Contact Us</h1>
+        <p>If you have questions or concerns, you can always contact us through <a href="mailto:psychopsorg@gmail.com">psychopsorg@gmail.com</a> or by <a href="https://discord.gg/QMhvHuGPMx">joining our support server</a>. Of course, for serious issues such as security vulnerabilities and data removal requests, we ask you to mail us rather than joining our support server on Discord.
+    </div>
+</div>
+
 </body>
 
 </html>
