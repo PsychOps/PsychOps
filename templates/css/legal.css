@@ -1,0 +1,35 @@
+@import "variables.css";
+
+.sectionstart {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.content {
+    float: right;
+    position: relative;
+    background-color: var(--color-dark-hover);
+    margin-right: 300px;
+    margin-left: 150px;
+    padding-right: 30px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.textend {
+    margin-right: 800px;
+}
+
+@media only screen and (max-width: 768px) {
+    .content {
+        position: initial;
+        float: initial;
+        margin: initial;
+    }
+
+    .textend {
+        margin-right: initial;
+    }
+}
