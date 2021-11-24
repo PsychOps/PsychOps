@@ -9,7 +9,7 @@
 
 <div class="notnavtext" id="section1">
     <h1 class="fs-1 text-center">Privacy Policy</h1>
-    <p style="font-weight: bold" class="sectionstart">Last updated November 20 2021</p>
+    <p style="font-weight: bold" class="sectionstart">Last updated November 24 2021</p>
 
 <div class="content">
     <h1 class="fs-4">Table Of Contents</h1>
