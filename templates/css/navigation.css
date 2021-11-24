@@ -73,3 +73,8 @@ body {
 .fa-sort-down {
     padding-left: 25px;
 }
+
+#sidebarNavigation a a.current {
+    background-color: var(--color-dark);
+    color: var(--color-light);
+}
