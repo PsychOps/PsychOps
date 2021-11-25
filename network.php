@@ -44,7 +44,7 @@
       <div class="card">
         <div class="card-content">
             <div class="imgBx">
-                <a href="cabin.php" target="_blank"><img src="assets/network/TheCabin.png" alt=""></a>
+                <a href="cabin.php"><img src="assets/network/TheCabin.png" alt=""></a>
             </div>
             <div class="contentBx">
                 <h4>The Cabin</h4>
@@ -56,7 +56,7 @@
       <div class="card">
           <div class="card-content">
               <div class="imgBx">
-                  <a href="haven.php" target="_blank"><img src="assets/network/Haven.webp" alt=""></a>
+                  <a href="haven.php"><img src="assets/network/Haven.webp" alt=""></a>
               </div>
               <div class="contentBx">
                   <h4>The Haven</h4>
