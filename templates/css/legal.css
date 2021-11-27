@@ -14,8 +14,9 @@
     padding-right: 30px;
     padding-left: 10px;
     border-style: solid;
-    border-color: white;
+    border-color: var(--color-dark-mark);
     border-radius: 5px;
+    box-shadow: -0.5em -0.5em 1em var(--color-loading);
 }
 
 .textend {
