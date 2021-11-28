@@ -24,7 +24,10 @@
             <a href="commissions.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
               ><i class="fas fa-coins fa-fw me-3"></i><span>Commissions</span></a
             >
-            <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+            <a href="#" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
+              ><i class="fas fa-network-wired fa-fw me-3"></i><span>Projects</span><i class="fas fa-sort-down"></i></a
+            >
+            <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item"
               ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
             >
             <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
