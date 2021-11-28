@@ -33,7 +33,7 @@
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
         >
         <a href="varumox.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item"
-          ><i class="fas fa-cubes fa-fw me-3"></i><span>Varumox</span></a
+          ><i class="fas fa-code-branch fa-fw me-3"></i><span>Varumox</span></a
         >
         <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
           ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span><i class="fas fa-sort-down"></i></a
