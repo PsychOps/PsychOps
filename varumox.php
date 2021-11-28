@@ -9,6 +9,7 @@
 
 <div class="notnavtext text-center">
     <p class="fs-1">Varumox</p>
+    <img src="assets/images/Varumox V.png" alt="" class="pingernos-img">
     <p>
     The website and API for Varumox Marketplace - quality plugins, at no cost. Coming soon.
     </p>
