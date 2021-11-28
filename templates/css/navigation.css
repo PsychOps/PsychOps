@@ -43,7 +43,8 @@ body {
     top: 0;
     height: calc(100vh - 48px);
     padding-top: 0.5rem;
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
 }
 
 .bg-button {
@@ -77,7 +78,7 @@ body {
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .sidebar::-webkit-scrollbar {
-    width: none;
+    display: none;
   }
   
   /* Hide scrollbar for IE, Edge and Firefox */
