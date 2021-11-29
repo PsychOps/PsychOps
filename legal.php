@@ -106,7 +106,7 @@
 <div class="notnavtext textend" id="removal">
     <div class="sectionstart">
     <h1 class="fs-2">Data removal requests</h1>
-    <p>It is possible to get your data on BadWolf removed on request. For that, please <a href=#contact>contact us</a> and submit the data you want removed, additionally with the reason. Of course, we require your user ID or guild ID as well, depending on what data you want removed. <b>Removing this data may take up to 3 days, please be patient and wait for a team member to get to you upon sending in your request.</b>
+    <p>It is possible to get your data on BadWolf removed on request. For that, please <a href=#contact>contact us</a> and submit the data you want removed, additionally with the reason. Of course, we require your user ID or guild ID as well, depending on what data you want removed. <b>Removing this data may take up to 3 business days, please be patient and wait for a team member to get to you upon sending in your request.</b>
     </div>
 </div>
 
