@@ -1,5 +1,6 @@
-<link rel="shortcut icon" href="/assets/S1.png" type="image/x-icon" />
-  </head>
+<?php
+$thisFile = (isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : (isset($_SERVER['SCRIPT_NAME']) ? $_SERVER['SCRIPT_NAME'] : null));
+$thisFile = pathinfo($thisFile,  PATHINFO_BASENAME);?>
 </script>
 <!--Main Navigation-->
 <header>
@@ -9,51 +10,51 @@
       <div class="list-group list-group-flush mx-3 mt-4">
         <a
           href="index.php"
-          class="list-group-item list-group-item-action py-2 ripple bg-button"
+          class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'index.php') !== false) {echo 'current-menu';} ?>"
           aria-current="true"
         >
           <i class="fas fa-address-card fa-fw me-3"></i><span>About us</span></a
           >
-        <a href="team.php" class="list-group-item list-group-item-action py-2 ripple bg-button">
+        <a href="team.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'team.php') !== false) {echo 'current-menu';} ?>">
           <i class="fas fa-users fa-fw me-3"></i><span>Our team</span></a
           >
-        <a href="positions.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="positions.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'positions.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-laptop-code fa-fw me-3"></i><span>Open positions</span></a
         >
-        <a href="associates.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="associates.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'associates.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-handshake fa-fw me-3"></i><span>Associates</span></a
         >
-        <a href="commissions.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="commissions.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'commissions.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-coins fa-fw me-3"></i><span>Commissions</span></a
         >
-        <a href="projects.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
+        <a href="projects.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head<?php if (stripos($thisFile, 'projects.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-project-diagram fa-fw me-3"></i><span>Projects</span><i class="fas fa-sort-down"></i></a
         >
-        <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item"
+        <a href="pingernos.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'pingernos.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-server fa-fw me-3"></i><span>Pingernos</span></a
         >
-        <a href="varumox.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item"
+        <a href="varumox.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'varumox.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-code-branch fa-fw me-3"></i><span>Varumox</span></a
         >
-        <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head"
+        <a href="network.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item-head<?php if (stripos($thisFile, 'network.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-network-wired fa-fw me-3"></i><span>Network</span><i class="fas fa-sort-down"></i></a
         >
-        <a href="badwolf.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
+        <a href="badwolf.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'badwolf.php') !== false) {echo 'current-menu';} ?>">
             <i class="fas fa-paw fa-fw me-3"></i><span>Bad Wolf</span></a
         >
-        <a href="mg.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
+        <a href="mg.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'mg.php') !== false) {echo 'current-menu';} ?>">
           <i class="fas fa-cubes fa-fw me-3"></i><span>MinecraftGolden</span></a
         >
-        <a href="cabin.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
+        <a href="cabin.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'cabin.php') !== false) {echo 'current-menu';} ?>">
             <i class="fas fa-heartbeat fa-fw me-3"></i><span>The Cabin</span></a
         >
-        <a href="haven.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item">
+        <a href="haven.php" class="list-group-item list-group-item-action py-2 ripple bg-button ntw-item<?php if (stripos($thisFile, 'haven.php') !== false) {echo 'current-menu';} ?>">
             <i class="fas fa-code fa-fw me-3"></i><span>The Haven</span></a
         >
-        <a href="credit.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="credit.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'credit.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-award fa-fw me-3"></i><span>Credit</span></a
         >
-        <a href="legal.php" class="list-group-item list-group-item-action py-2 ripple bg-button"
+        <a href="legal.php" class="list-group-item list-group-item-action py-2 ripple bg-button<?php if (stripos($thisFile, 'legal.php') !== false) {echo 'current-menu';} ?>"
           ><i class="fas fa-balance-scale fa-fw me-3"></i><span>Legal</span></a
         >
         <!--

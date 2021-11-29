@@ -86,3 +86,9 @@ body {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
   }
+
+.current-menu {
+    background-color: var(--color-light);
+    color: var(--color-dark-hover);
+    border-color: var(--color-dark);
+}
