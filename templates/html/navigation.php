@@ -106,6 +106,7 @@ $thisFile = pathinfo($thisFile,  PATHINFO_BASENAME);?>
           </a>
         </li>
       </ul>
+    </div>
   </nav>
   <!-- Navbar -->
 </header>

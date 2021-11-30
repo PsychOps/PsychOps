@@ -9,12 +9,13 @@
 
 <div class="notnavtext text-center">
     <p class="fs-1">Varumox</p>
-    <img src="assets/images/Varumox V.png" alt="" class="pingernos-img">
+    <img src="assets/images/Varumox V.png" alt="">
     <p>
-    The website and API for Varumox Marketplace - quality plugins, at no cost. Coming soon.
+        The website and API for Varumox Marketplace - quality plugins, at no cost. Coming soon.
     </p>
     <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Central Discord Server</a>
 </div>
+
 </body>
 
 </html>

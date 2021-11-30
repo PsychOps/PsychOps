@@ -27,11 +27,11 @@
 
     <div class="sectionstart textend">
         <p>
-        PsychOps' mission is to deliver completely free and open source products to anyone as alternative to paid software, or as entertainment product. To ensure that our mission succeeds, we have to gather certain data from our users for our products. While we gather data, we do wish to be as transparent and respectful about it as we can.
-        <br/> <br/>
-        This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
-        <br/> <br/>
-        The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
+            PsychOps' mission is to deliver completely free and open source products to anyone as alternative to paid software, or as entertainment product. To ensure that our mission succeeds, we have to gather certain data from our users for our products. While we gather data, we do wish to be as transparent and respectful about it as we can.
+            <br/> <br/>
+            This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
+            <br/> <br/>
+            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
         </p>
     </div>
 </div>
@@ -40,9 +40,10 @@
     <div class="sectionstart">
         <h1 class="fs-2">Introduction</h1>
         <p>
-        PsychOps develops and maintains public, open-source websites and Discord bots at no cost. "PsychOps", "BadWolf", "we", "our" or "us" in this privacy policy refers to PsychOps Org. as well as any of its subsidiaries.
-        <br/>
-        PsychOps is a software development organization situated in The Netherlands. PsychOps follows the laws laid onto companies by the European Union and will not under any circumstances follow other laws despite being globally available. Users situated outside of the EU are by exception still allowed to invoke European rights in relation to data deletion or any other legal circumstances.
+            PsychOps develops and maintains public, open-source websites and Discord bots at no cost. "PsychOps", "BadWolf", "we", "our" or "us" in this privacy policy refers to PsychOps Org. as well as any of its subsidiaries.
+            <br/>
+            PsychOps is a software development organization situated in The Netherlands. PsychOps follows the laws laid onto companies by the European Union and will not under any circumstances follow other laws despite being globally available. Users situated outside of the EU are by exception still allowed to invoke European rights in relation to data deletion or any other legal circumstances.
+        </p>
     </div>
 </div>
 
@@ -85,7 +86,7 @@
             <li>blacklist user</li>
             <li>blacklist guild</li>
         </ul>
-        <p>The bot can not collect data unless this data is explicitly given through these commands. Entering data into the database manually is possible, but does not happen unless the relative user gives consent and unless the process follows the GDPR laws set by the European Union.
+        <p>The bot can not collect data unless this data is explicitly given through these commands. Entering data into the database manually is possible, but does not happen unless the relative user gives consent and unless the process follows the GDPR laws set by the European Union.</p>
     </div>
 </div>
 
@@ -99,14 +100,14 @@
 <div class="notnavtext textend" id="changes">
     <div class="sectionstart">
         <h1 class="fs-2">Privacy Policy changes</h1>
-        <p>We might update our Privacy Policy to reflect any changes in data collection or within the Privacy Policy, as well as to satisfy legal requirements. An announcement will be sent out at least 7 days in advance to notify our users about the relative changes.
+        <p>We might update our Privacy Policy to reflect any changes in data collection or within the Privacy Policy, as well as to satisfy legal requirements. An announcement will be sent out at least 7 days in advance to notify our users about the relative changes.</p>
     </div>
 </div>
 
 <div class="notnavtext textend" id="removal">
     <div class="sectionstart">
     <h1 class="fs-2">Data removal requests</h1>
-    <p>It is possible to get your data on BadWolf removed on request. For that, please <a href=#contact>contact us</a> and submit the data you want removed, additionally with the reason. Of course, we require your user ID or guild ID as well, depending on what data you want removed. <b>Removing this data may take up to 3 business days, please be patient and wait for a team member to get to you upon sending in your request.</b>
+    <p>It is possible to get your data on BadWolf removed on request. For that, please <a href=#contact>contact us</a> and submit the data you want removed, additionally with the reason. Of course, we require your user ID or guild ID as well, depending on what data you want removed. <b>Removing this data may take up to 3 business days, please be patient and wait for a team member to get to you upon sending in your request.</b></p>
     </div>
 </div>
 
@@ -124,7 +125,7 @@
 <div class="notnavtext textend" id="contact">
     <div class="sectionstart">
         <h1 class="fs-2">Contact Us</h1>
-        <p>If you have questions or concerns, you can always contact us through <a href="mailto:psychopsorg@gmail.com">psychopsorg@gmail.com</a> or by <a href="https://discord.gg/QMhvHuGPMx">joining our support server</a>. Of course, for serious issues such as security vulnerabilities and data removal requests, we ask you to mail us rather than joining our support server on Discord.
+        <p>If you have questions or concerns, you can always contact us through <a href="mailto:psychopsorg@gmail.com">psychopsorg@gmail.com</a> or by <a href="https://discord.gg/QMhvHuGPMx">joining our support server</a>. Of course, for serious issues such as security vulnerabilities and data removal requests, we ask you to mail us rather than joining our support server on Discord.</p>
     </div>
 </div>
 
