@@ -21,7 +21,7 @@
                 <div class="contentBx">
                     <h4>Joshua</h4>
                     <h5>Manager</h5>
-                    <p>Hi! I'm Joshua, better known as Zoniq The Hedgehog. Want to read more about me? Check out <a href="https://zoniq.tk" target="_blank">my personal website</a>!</p></p>
+                    <p>Hi! I'm Joshua, better known online as Bluewy. Want to read more about me? Check out <a href="https://zoniq.tk" target="_blank">my personal website</a>!</p></p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/ScourgeTheHedgehog" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
