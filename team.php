@@ -20,8 +20,8 @@
                 </div>
                 <div class="contentBx">
                     <h4>Joshua</h4>
-                    <h5>Manager</h5>
-                    <p>Hi! I'm Joshua, better known online as Bluewy. Want to read more about me? Check out <a href="https://zoniq.tk" target="_blank">my personal website</a>!</p></p>
+                    <h5>Founder</h5>
+                    <p>Hi! I'm Joshua, better known online as Bluewy. I'm the lead developer, and owner at PsychOps. Check out <a href="https://zoniq.tk" target="_blank">my personal website</a>!</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/ScourgeTheHedgehog" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="contentBx">
                     <h4>Jay</h4>
-                    <h5>Manager</h5>
+                    <h5>Founder</h5>
                     <p>Hey! Im Jason, mainly known as Fridge or Jay. I'm 15y/o and since this is more of just a short description, read more <a href="https://aboutjay.tk/" target="_blank">here</a>.</p>
                 </div>
                 <div class="sci">
@@ -54,7 +54,7 @@
                 </div>
                 <div class="contentBx">
                     <h4>Etile</h4>
-                    <h5>Administrator</h5>
+                    <h5>Engineer</h5>
                     <p>Hi! I'm Etile and I'm extremely inactive here >.<</p>
                 </div>
                 <div class="sci">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="contentBx">
                     <h4>Julian</h4>
-                    <h5>Administrator</h5>
+                    <h5>Developer</h5>
                     <p>I'm Julian. I live in Germany, work at <a href="https://aternos.org/" target="_blank">Aternos</a> and study computer science. You can find me <a href="https://vennen.me/" target="_blank">here</a>.</p>
                 </div>
                 <div class="sci">
