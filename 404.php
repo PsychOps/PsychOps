@@ -15,6 +15,8 @@
     <p>
         We are unable to recognize this page. Are you sure you landed at the right place?
         <br/>
+        <i>Currently, our website url's require being suffixed with <code>.php</code>. Make sure you have that.</i>
+        <br/> <br/>
         If you believe this is a mistake on our side, please report it by making an issue.
         <br/> <br/>
         <b>Page name: <code> <?php echo basename($_SERVER['PHP_SELF'],'.php') ;?> </code></b>
