@@ -16,7 +16,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://zoniq.tk" target="_blank"><img src="assets/team/MusicHog.png" alt=""></a>
+                    <a href="https://zoniq.tk" target="_blank"><img src="assets/team/Joshua.jpg" alt=""></a>
                 </div>
                 <div class="contentBx">
                     <h4>Joshua</h4>
@@ -33,7 +33,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://aboutjay.tk/" target="_blank"><img src="assets/team/Jay.png" alt=""></a>
+                    <a href="https://aboutjay.tk/" target="_blank"><img src="assets/team/JayPFP.png" alt=""></a>
                 </div>
                 <div class="contentBx">
                     <h4>Jay</h4>
@@ -50,7 +50,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <img src="assets/team/Etile.png" alt="">
+                    <img src="assets/team/EtilePFP.webp" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>Etile</h4>
@@ -82,7 +82,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://connor.is-a.dev" target="_blank"><img src="assets/team/Connor.png" alt=""></a>
+                    <a href="https://connor.is-a.dev" target="_blank"><img src="assets/team/ConnorPFP.gif" alt=""></a>
                 </div>
                 <div class="contentBx">
                     <h4>Connor</h4>
