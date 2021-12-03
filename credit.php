@@ -24,10 +24,8 @@
 
 <div class="notnavtext text-center">
     <ul>
-        <li> <a href="https://github.com/Amgelo563" target="_blank"> <b>Amgelo563</b> </a> - Made both <a href="https://ibb.co/2ZrmpCN" target="_blank" onclick="window.open('https://ibb.co/TkqQpCC');">PsychOps logos</a>. </li>
-        <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to <a href="https://github.com/PsychOps/healver" target="_blank">Healver bot</a> and the <a href="https://psychops.tk/credit.php" target="_blank">PsychOps website</a>. </li>
-        <li> <a href="https://github.com/DuckMasterAl" target="_blank"> <b>DuckMasterAl</b> </a> - Contributed to <a href="https://github.com/PsychOps/spyro" target="_blank">Spyro bot</a> and <a href="https://github.com/PsychOps/htll" target="_blank">Joshua's school's student council website</a>. </li>
-        <li> <a href="https://github.com/FennyNoFloofy" target="_blank"> <b>FennyNoFloofy</b> </a> - Contributed to <a href="https://github.com/PsychOps/htll" target="_blank">Joshua's school's student council website</a>. </li>
+    <li> <a href="https://github.com/Amgelo563" target="_blank"> <b>Amgelo563</b> </a> - Made both PsychOps logos (<a href="https://ibb.co/TkqQpCC" target="_blank">S1</a> and <a href="https://ibb.co/2ZrmpCN" target="_blank">PsychOps name logo</a>). </li>
+    <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to <a href="https://github.com/PsychOps/healver" target="_blank">Healver bot</a> and the <a href="https://psychops.tk/credit.php" target="_blank">PsychOps website</a>. </li>
     </ul>
 </div>
 
