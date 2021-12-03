@@ -62,6 +62,25 @@
                 </div>
             </div>
         </div>
+
+        <div class="card">
+            <div class="card-content">
+                <div class="imgBx">
+                    <a href="https://zoribot.xyz/" target="_blank"><img src="assets/team/Aphidian.png" alt=""></a>
+                </div>
+                <div class="contentBx">
+                    <h4>Aphidian</h4>
+                    <h5>Developer</h5>
+                    <p>Hello! My name is Jayden but I am known as Aphidian on Discord, I am a 17-year-old furry and Python programmer!</p>
+                </div>
+                <div class="sci">
+                    <a href="https://github.com/Aphidian" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/Aphidianx3" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/750470053300011070" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
@@ -79,6 +98,7 @@
                 </div>
             </div>
         </div>
+
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
