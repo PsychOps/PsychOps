@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import "variables.css";
+@import '~mdb-ui-kit/css/mdb.min.css';
 
 body {
     background-color: var(--color-dark);
