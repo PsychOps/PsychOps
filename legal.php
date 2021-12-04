@@ -31,7 +31,7 @@
             <br/> <br/>
             This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
             <br/> <br/>
-            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:zoniqhedgehog@gmail.com">zoniqhedgehog@gmail.com</a>
+            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
         </p>
     </div>
 </div>

@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import "variables.css";
-@import '~mdb-ui-kit/css/mdb.min.css';
 
 body {
     background-color: var(--color-dark);
@@ -20,7 +19,7 @@ body {
     top: 0;
     bottom: 0;
     left: 0;
-    padding: 58px 0 0; /* Height of navbar */
+    padding: 46px 0 0; /* Height of navbar */
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%), 0 2px 10px 0 rgb(0 0 0 / 5%);
     width: 240px;
     z-index: 600;
@@ -46,6 +45,11 @@ body {
     padding-top: 0.5rem;
     overflow-x: hidden;
     overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
+
+/* Remember to make the header round too */
+.list-group {
+    border-radius: 5px;
 }
 
 .bg-button {

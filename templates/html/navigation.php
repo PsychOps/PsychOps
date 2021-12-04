@@ -1,7 +1,6 @@
 <?php
 $thisFile = (isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : (isset($_SERVER['SCRIPT_NAME']) ? $_SERVER['SCRIPT_NAME'] : null));
 $thisFile = pathinfo($thisFile,  PATHINFO_BASENAME);?>
-</script>
 <!--Main Navigation-->
 <header>
   <!-- Sidebar -->
