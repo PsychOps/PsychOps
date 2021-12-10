@@ -61,13 +61,13 @@ body {
     color: var(--color-main);
 }
 
-.fa-github {
+.git-h {
     padding: 0;
     margin: 0;
     transition: 500ms;
 }
 
-.fa-github:hover {
+.git-h:hover {
     color: #767676;
     transition: 500ms;
 }
