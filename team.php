@@ -135,6 +135,22 @@
                 </div>
             </div>
         </div>
+        <div class="card">
+            <div class="card-content">
+                <div class="imgBx">
+                    <a href="https://www.vaxind.tk/" target="_blank"><img src="assets/team/VaxindAvatar.png" alt=""></a>
+                </div>
+                <div class="contentBx">
+                    <h4>Vaxind</h4>
+                    <h5>Developer</h5>
+                    <p>Hello there, i'm Vaxind. I'm a developer and i like programming, want to know more about me? Read more <a href="https://www.vaxind.tk" targe="_blank">here</a>.</p>
+                </div>
+                <div class="sci">
+                    <a href="https://github.com/vaxind" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/339489914590855180" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
     </div>
     
 </body>
