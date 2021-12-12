@@ -13,7 +13,7 @@
     <h1 class="title">Our Team</h1>
 </div>
 
-<div class="notnavtext text-center">
+<div class="text-center">
     <div class="cards">
         <div class="card">
             <div class="card-content">
@@ -46,21 +46,6 @@
                     <a href="https://github.com/JayThePHQ" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
                     <a href="https://twitter.com/JayThePHQ" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
                     <a href="https://discord.com/users/820190411842781216" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <div class="imgBx">
-                    <img src="assets/team/EtilePFP.webp" alt="">
-                </div>
-                <div class="contentBx">
-                    <h4>Etile</h4>
-                    <h5>Engineer</h5>
-                    <p>Hi! I'm Etile and I'm extremely inactive here >.<</p>
-                </div>
-                <div class="sci">
-                    <a href="https://discord.com/users/856910332290007071" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -104,23 +89,6 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://connor.is-a.dev" target="_blank"><img src="assets/team/ConnorPFP.gif" alt=""></a>
-                </div>
-                <div class="contentBx">
-                    <h4>Connor</h4>
-                    <h5>Developer</h5>
-                    <p>Hi! my name is Connor. im a backend (dev) weeb. want to know more about me? check out <a href="https://connor.is-a.dev" target="_blank">my website</a>! :D</p>
-                </div>
-                <div class="sci">
-                    <a href="https://github.com/ConnorDoesDev" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/ConnorDev_" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/744603004493365330" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <div class="imgBx">
                     <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/team/Hilex23Avatar.png" alt=""></a>
                 </div>
                 <div class="contentBx">
@@ -138,7 +106,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://www.vaxind.tk/" target="_blank"><img src="assets/team/VaxindAvatar.png" alt=""></a>
+                    <a href="https://www.vaxind.tk/" target="_blank"><img src="assets/team/Vaxind.png" alt=""></a>
                 </div>
                 <div class="contentBx">
                     <h4>Vaxind</h4>
