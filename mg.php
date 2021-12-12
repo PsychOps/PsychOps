@@ -32,7 +32,7 @@
 
 <div class="container text-center" id=hub>
     <hr>
-    <p class="fs-2">Information</p>
+    <h2>Information</h2>
     <p>
         Upon joining the server, you get prompted to register (<code>/register [password]</code>). Joining it after registering will only prompt you to log in (<code>/login [password]</code>). The hub provides a handful of useful tips and information for you to use during your stay on MinecraftGolden. Additionally, if you ever need more help; Staff is always there to help you either on discord or in the server.
     </p>
@@ -41,7 +41,7 @@
 
 <div class="container text-center" id=survival>
     <hr>
-    <p class="fs-2">Survival</p>
+    <h2>Survival</h2>
     <p>
         A vanilla survival experience, with claims. We at MinecraftGolden are very busy with expanding our current survival gamemode into an all-new, exclusive to MinecraftGolden experience with many customized features, and a variety of entertaining settings. While we are busy with this however, the vanilla survival experience is the only one we are currently able to offer.
     </p>

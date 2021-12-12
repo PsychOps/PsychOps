@@ -11,7 +11,7 @@
 
 <div class="container text-center">
     <img src="/assets/S1.png" alt="">
-    <p class="fs-1">Associates</p>
+    <h1>Associates</h1>
     <p>
         PsychOps does not have any associates yet.
         <br/>

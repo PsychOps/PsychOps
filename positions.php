@@ -12,7 +12,7 @@
 <div class="container text-center">
     <div class="container">
         <img src="/assets/S1.png" alt="">
-        <p class="fs-1">Job offer - Developer (english)</p>
+        <h1>Job offer - Developer (english)</h1>
         <p class="subtitle"> <i>Scroll down for the dutch (Nederlands) version.</i> </p>
     </div>
 </div>
@@ -39,7 +39,7 @@
 
 <div class="container sectionstart">
     <div class="container">
-        <p class="fs-3">Requirements</p>
+        <h3>Requirements</h3>
         <lu>
             <li>Basic knowledge in Javascript <b>or</b> Python</li>
             <li>Basic knowledge in HTML and CSS</li>
@@ -62,7 +62,7 @@
 
 <div class="container sectionstart">
     <div class="container">
-        <p class="fs-3">Preferred</p>
+        <h3>Preferred</h3>
         <lu>
             <li>6+ months of experience in Javascript <b>or</b> Python</li>
             <li>Fluently speak dutch</li>
@@ -82,7 +82,7 @@
 <div class="notnavtext text-center">
     <div class="container">
         <hr>
-        <p class="fs-1">Vacature Developer (Nederlands)</p>
+        <h1>Vacature Developer (Nederlands)</h1>
         <p class="subtitle"> <i>Scroll omhoog voor de engelse versie.</i> </p>
     </div>
 </div>
@@ -109,7 +109,7 @@
 
 <div class="container sectionstart">
     <div class="container">
-        <p class="fs-3">Onze eisen</p>
+        <h3>Onze eisen</h3>
         <lu>
             <li>Basiskennis Javascript en/of Python</li>
             <li>Basiskennis HTML en CSS</li>
@@ -131,7 +131,7 @@
 
 <div class="container sectionstart">
     <div class="container">
-        <p class="fs-3">Gewenst</p>
+        <h3>Gewenst</h3>
         <lu>
             <li>6+ Maanden ervaring in JavaScript en/of Python</li>
             <li>Vloeiend nederlands spreken</li>
