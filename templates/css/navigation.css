@@ -1,9 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import "variables.css";
 
-body {
+.bg-dark {
+    background-color: var(--color-dark) !important;
+    box-shadow: -2em -0.5em 1em #5c5c5c;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    border-radius: 0px;
     background-color: var(--color-dark);
-    font-family: "Play", sans-serif;
+    border-color: var(--color-light);
+    margin-top: 0;
+}
+
+.dropdown-item {
     color: var(--color-light)
 }
 
