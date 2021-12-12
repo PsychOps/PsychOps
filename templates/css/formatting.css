@@ -1,5 +1,16 @@
 @import "variables.css";
 
+body {
+    background-color: var(--color-dark);
+    font-family: "Play", sans-serif;
+    color: var(--color-light)
+}
+
+hr {
+    color: var(--color-light);
+    background-color: var(--color-light);
+}
+
 .notnavtext {
     margin-left: 300px;
     margin-right: 50px;
