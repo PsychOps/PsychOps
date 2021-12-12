@@ -3,7 +3,7 @@
 
 <?php include 'templates/html/head.html' ;?>
 
-<?php include 'templates/html/navigation.php' ;?>
+<?php include 'templates/html/navigation.html' ;?>
 
 <?php include 'templates/html/cookies.php' ;?>
 
