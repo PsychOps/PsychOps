@@ -1,0 +1,60 @@
+<script>
+    $(document).ready(function(){
+    $(".dropdown").hover(function(){
+      var dropdownMenu = $(this).children(".dropdown-menu");
+      if(dropdownMenu.is(":visible")){
+        dropdownMenu.parent().toggleClass("open");
+      }
+    });
+  });
+</script>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">
+    <img src="/assets/PsychOpsTransparent.png" alt="" height="25">
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/index.php">Home</a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdown-organization" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          organization
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/legal.php">Legal</a>
+          <a class="dropdown-item" href="/team.php">Team</a>
+          <a class="dropdown-item" href="/positions.php">Jobs</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="/associates.php">Associates</a>
+        </div>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-projects" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Projects
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/pingernos.php">Pingernos</a>
+          <a class="dropdown-item" href="/badwolf.php">BadWolf</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="/credit.php">Credits</a>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="/network.php">Network</a>
+      </li>
+    </ul>
+    <a href="https://github.com/PsychOps" target="_blank">
+      <i class="fab fa-github fa-2x" style="color: white"></i>
+    </a>
+  </div>
+</nav>
