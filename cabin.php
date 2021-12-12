@@ -17,7 +17,7 @@
             The Cabin is a friendly and tight community designed to be a safe haven for members of the LGBTQ+ community owned by <a href="https://zoniq.tk" target="_blank">Joshua</a> and <a href="https://aboutjay.tk/" target="_blank">Jay</a>.
             <br/>
             Our goal is to keep the haters and "bad actors" out while letting members of the LGBTQ+ community and "allies" join in and have fun, offer/receive advice and more.
-            <br/>
+            <br/> <br/>
             Through our extensive verification system, we hope to make that goal as true as possible.
             <br/>
             We offer a range of things, but we believe to be most proud of the service we offer to all those people struggling with their sexuality, or those in need of help or advise.
