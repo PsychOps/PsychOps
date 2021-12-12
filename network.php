@@ -22,18 +22,6 @@
         <div class="card">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="badwolf.php"><img src="assets/network/BadWolf.png" alt=""></a>
-                </div>
-                <div class="contentBx">
-                    <h4>Bad Wolf</h4>
-                    <h5>Community</h5>
-                    <p>Our main purpose and goal is to give people a freedom-filled discord server, with many activities to silence the feeling of boredom with little rules - yet enough to not end in total anarchy.</p>
-                </div>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-content">
-                <div class="imgBx">
                     <a href="mg.php"><img src="assets/MG/MG.png" alt=""></a>
                 </div>
                 <div class="contentBx">
