@@ -9,7 +9,7 @@
 
 <body>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <img src="/assets/S1.png" alt="">
     <p class="fs-1">Associates</p>
     <p>

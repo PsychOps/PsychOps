@@ -9,8 +9,8 @@
 
 <body>
 
-<div class="notnavtext text-center">
-    <p class="fs-1">Credit</p>
+<div class="container text-center">
+    <h1>Credit</h1>
     <p>
         Contributions within PsychOps outside the team does not go unappreciated, and we are always open to contributions through pull requests on any of our repositories. Think you got an idea, bugfix, or an improvement for one of our products? Fork the repository and make the necessary changes, then create a pull request and a team member will be quick to check it out. All of our repositories can be found <a href="https://github.com/PsychOps">on our github</a>.
     </p>
@@ -20,11 +20,11 @@
     </p>
 </div>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <hr>
 </div>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <ul>
     <li> <a href="https://github.com/Amgelo563" target="_blank"> <b>Amgelo563</b> </a> - Made both PsychOps logos (<a href="https://ibb.co/TkqQpCC" target="_blank">S1</a> and <a href="https://ibb.co/2ZrmpCN" target="_blank">PsychOps name logo</a>). </li>
     <li> <a href="https://github.com/Aresiel" target="_blank"> <b>Aresiel</b> </a> - Contributed to <a href="https://github.com/PsychOps/healver" target="_blank">Healver bot</a> and the <a href="https://psychops.tk/credit.php" target="_blank">PsychOps website</a>. </li>

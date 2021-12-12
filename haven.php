@@ -8,8 +8,8 @@
 <?php include 'templates/html/cookies.php' ;?>
 
 <body>
-        <div class="notnavtext text-center">
-            <p class="fs-1">The Haven</p>
+        <div class="container text-center">
+            <h1>The Haven</h1>
             <img src="assets/network/Haven.webp" alt="" class="pingernos-img">
             <br/>
             <br/>

@@ -9,7 +9,7 @@
 
 <body>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <div class="container">
         <img src="/assets/S1.png" alt="">
         <p class="fs-1">Job offer - Developer (english)</p>
@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<div class="notnavtext text-center sectionstart">
+<div class="container sectionstart">
 
     <div class="container">
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your application</a>
@@ -37,7 +37,7 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p class="fs-3">Requirements</p>
         <lu>
@@ -54,13 +54,13 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p> <b>These requirements are only the minimal and will not guarantee that we hire you. Our application reviews are discussed internally based on the quality of your application ADDITIONALLY to whether you meet the requirements. We do not strictly look at whether an applicant also possesses the preferred skills, but we would always appreciate applicants possessing (some of) these.</b> </p>
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p class="fs-3">Preferred</p>
         <lu>
@@ -71,7 +71,7 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p>Lastly, PsychOps wishes to maintain a good and proper image with its users and does not wish to take part in anything that may contradict european law, the discord ToS, our own privacy policy or other legal issues that may affect PsychOps as organization. If applicants are prone to causing such issues, the application will be declined immediately. We will do thorough checks on our applicants to make sure their applications are honest, and that they may not cause issues for our organization at a later moment.</p>
     </div>
@@ -87,7 +87,7 @@
     </div>
 </div>
 
-<div class="notnavtext text-center sectionstart">
+<div class="container sectionstart">
 
     <div class="container">
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail uw sollicitatie naar ons</a>
@@ -107,7 +107,7 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p class="fs-3">Onze eisen</p>
         <lu>
@@ -123,13 +123,13 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p> <b>Deze eisen zijn alleen het minimum, en garanderen niet dat we u aannemen. De oordeling over sollicitaties worden intern gediscussieerd gebaseerd op de kwaliteit van uw sollicitatie, met daarnaast of u aan de eisen voldoet. Wij kijken niet strict naar of een sollicitant ook de gewenste vaardigheden bezit, maar dit kan in uw voordeel zijn bij uw sollicitatie.</b> </p>
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p class="fs-3">Gewenst</p>
         <lu>
@@ -140,7 +140,7 @@
     </div>
 </div>
 
-<div class="notnavtext sectionstart">
+<div class="container sectionstart">
     <div class="container">
         <p>Ten slotte, PsychOps wenst een goed en respecterend beeld op te houden bij zijn gebruikers, en doet niet mee aan het breken van Europese wetten, de Discord ToS, onze eigen privacy policy, of enig andere legale problemen die PsychOps als organizatie kunnen schaden. Als sollicitanten duidelijk een probleem kunnen vormen in relatie tot dit, zal de sollicitatie meteen verwijderd en afgewezen worden. Wij zullen altijd grondig onderzoeken of een sollicitant geschikt is, of zij een probleem kunnen vormen voor PsychOps op een later moment, en of de sollicitaties eerlijk, en feitelijk zijn.</p>
     </div>

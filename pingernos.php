@@ -9,8 +9,8 @@
 
 <body>
 
-<div class="notnavtext text-center">
-    <p class="fs-1">Pingernos</p>
+<div class="container text-center">
+    <h1>Pingernos</h1>
     <img src="assets/Pingernos.png" alt="" class="pingernos-img">
     <p>
         Pingernos is an unofficial bot made by <a href="https://zoniq.tk" target="_blank">Joshua</a>, and contributed to by <a href="https://connor.is-a.dev" target="_blank">Connor</a> that lets you grab the status of any Aternos server.

@@ -9,8 +9,8 @@
 
 <body>
 
-<div class="notnavtext text-center">
-    <p class="fs-1">MinecraftGolden</p>
+<div class="container text-center">
+    <h1>MinecraftGolden</h1>
     <img src="/assets/MG/MG-transparent.png" alt="" class="pingernos-img">
     <p>
         MinecraftGolden is a minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program.
@@ -19,18 +19,18 @@
     </p>
 </div>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <p>
         You can join us at <b>minecraftgolden.aternos.me</b>. To know when the server is online, join the discord server below or use <a href="pingernos.php">Pingernos</a> (<code><@889197952994791434> status minecraftgolden</code>)
     </p>
 </div>
 
-<div class="notnavtext text-center">
+<div class="container text-center">
     <a class="btn bg-green btn-rounded" href=#survival>Jump to survival</a>
     <a class="btn bg-green btn-rounded" href="https://discord.gg/2AvJj68JMU" target="_blank">Join the discord</a>
 </div>
 
-<div class="notnavtext text-center" id=hub>
+<div class="container text-center" id=hub>
     <hr>
     <p class="fs-2">Information</p>
     <p>
@@ -39,7 +39,7 @@
     <img src="/assets/MG/MG_SERVER_HUB.png" alt="Server hub" height="100%" width="100%">
 </div>
 
-<div class="notnavtext text-center" id=survival>
+<div class="container text-center" id=survival>
     <hr>
     <p class="fs-2">Survival</p>
     <p>

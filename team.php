@@ -9,8 +9,8 @@
 
 <body>
 
-<div class="notnavtext text-center">
-    <p class="fs-1">Our Team</p>
+<div class="container text-center">
+    <h1 class="title">Our Team</h1>
 </div>
 
 <div class="notnavtext text-center">
