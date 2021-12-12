@@ -19,18 +19,18 @@
 
 <div class="container sectionstart">
 
-    <div class="container">
+    <div class="container sectionstart text-center">
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your application</a>
         <p> <i> A formal job application is required. Additionally, please send in your resume if you have one. </i> </p>
     </div>
 
-    <div class="container">
+    <div class="container sectionstart">
         <p>
             PsychOps Development is looking for new developers to join our team. Our goal is to provide in free and open-source products that are available for anyone to use without (m)any issues. We want our developers to share in the motivation for that goal. <b>Team members at PsychOps do not get paid, please do not apply for this job just for money.</b>
         </p>
     </div>
 
-    <div class="container">
+    <div class="container sectionstart">
         <p>
         We are looking for developers that have passion, motivation and the will to do both large- and small scale projects in name of PsychOps. The main focus lies with user satisfaction, and we will always look out for experienced developers that share our focus and will to make projects for the sake of our users, but this is not the only requirement to become a developer at PsychOps. Please read all our requirements down below if you wish to apply for the job.
         </p>
@@ -79,7 +79,7 @@
 
 <!-- THE DUTCH VERSION STARTS HERE. -->
 
-<div class="notnavtext text-center">
+<div class="container sectionstart text-center">
     <div class="container">
         <hr>
         <h1>Vacature Developer (Nederlands)</h1>
@@ -89,18 +89,18 @@
 
 <div class="container sectionstart">
 
-    <div class="container">
+    <div class="container text-center">
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail uw sollicitatie naar ons</a>
         <p> <i> Een formele sollicitatiebrief is vereist. Indien u een CV (Curriculum Vitae) hebt, willen wij deze ook graag ontvangen.  </i> </p>
     </div>
 
-    <div class="container">
+    <div class="container sectionstart">
         <p>
             PsychOps Development zoekt naar nieuwe developers om ons team te versterken. Ons doel is om gratis en open-source producten vrij te geven aan iedereen, met geen, of weinig problemen. Wij willen dat onze developers onze motivatie deelt voor dit doel. <b>PsychOps teamleden worden niet betaald aangezien onze producten compleet gratis zijn. Solliciteer niet voor deze baan om geld te ontvangen.</b>
         </p>
     </div>
 
-    <div class="container">
+    <div class="container sectionstart">
         <p>
         Wij zoeken voor developers met passie, motivatie en de wil om aan groot- en kleinschalige projecten mee te doen in de naam van PsychOps. De algemene focus ligt bij de tevredenheid van onze gebruikers, dusdanig zoeken wij ervaren developers die deze focus en motivatie deelt om projecten te ontwikkelen met gebruiksvriendelijkheid als doel. Dit is natuurlijk niet de enige eis die wij stellen. Lees alstublieft al onze eisen hieronder als u voor deze baan wilt solliciteren.
         </p>
