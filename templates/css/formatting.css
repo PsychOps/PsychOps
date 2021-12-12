@@ -31,7 +31,7 @@ hr {
 }
 
 .btn-rounded {
-    border-left-radius: 50%;
+    border-radius: 25px;
 }
 
 .txt-white {
