@@ -19,7 +19,7 @@
         <br/>
         <i>Currently, our website url's require being suffixed with <code>.php</code>. Make sure you have that.</i>
         <br/> <br/>
-        If you believe this is a mistake on our side, please report it by making an issue.
+        If you believe this is a mistake on our side, please report it by making an issue on GitHub.
         <br/> <br/>
         <b>Page name: <code> <?php echo basename($_SERVER['PHP_SELF'],'.php') ;?> </code></b>
     </p>

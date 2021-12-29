@@ -8,6 +8,7 @@
 <?php include 'templates/html/cookies.php' ;?>
 
 <body>
+    
 <div class="container text-center">
     <h1>Bad Wolf</h1>
     <img src="assets/network/BadWolf.png" alt="" class="pingernos-img">

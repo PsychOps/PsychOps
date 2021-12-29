@@ -8,6 +8,7 @@
 <?php include 'templates/html/cookies.php' ;?>
 
 <body>
+    
     <div class="container text-center">
         <h1>The Cabin</h1>
         <img src="assets/network/TheCabin.png" alt="" class="pingernos-img">
