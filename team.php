@@ -111,7 +111,7 @@
                 <div class="contentBx">
                     <h4>Toothy</h4>
                     <h5>Developer</h5>
-                    <p>Hi, I'm Toothy I'm 18 years old and from Germany and somewhat interested in coding which is why I'm here! My favourite language is Python and least favourite is Java, so, yea :3</p>
+                    <p>Hi, I'm Toothy I'm 18 years old and from Germany and somewhat interested in coding which is why I'm here! My favourite language is Python and least favourite is Java.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/ToothyDev" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
