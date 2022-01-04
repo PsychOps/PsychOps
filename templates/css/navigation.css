@@ -75,17 +75,6 @@
     color: var(--color-main);
 }
 
-.git-h {
-    padding: 0;
-    margin: 0;
-    transition: 500ms;
-}
-
-.git-h:hover {
-    color: #767676;
-    transition: 500ms;
-}
-
 .ntw-item {
     padding-left: 25px;
     background-color: #1f1f1f;
