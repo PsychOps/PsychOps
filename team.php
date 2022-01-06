@@ -111,7 +111,7 @@
                 <div class="contentBx">
                     <h4>Toothy</h4>
                     <h5>Developer</h5>
-                    <p>Hi, I'm Toothy I'm 18 years old and from Germany and somewhat interested in coding which is why I'm here! My favourite language is Python and least favourite is Java.</p>
+                    <p>Hi, I'm Toothy I'm 18 years old and from Germany and interested in coding which is why I'm here! My favorite language is Python and least favorite is Java.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/ToothyDev" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -123,7 +123,7 @@
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://www.vaxind.tk/" target="_blank"><img src="assets/team/Vaxind.png" alt=""></a>
+                    <a href="https://www.vaxind.tk/" target="_blank"><img src="assets/team/VaxindMonkey.png" alt=""></a>
                 </div>
                 <div class="contentBx">
                     <h4>Vaxind</h4>

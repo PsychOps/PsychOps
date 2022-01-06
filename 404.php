@@ -7,7 +7,7 @@
 
 <?php include 'templates/html/navigation.php' ;?>
 
-<?php include 'templates/html/cookies.php' ;?>
+<?php include 'templates/html/cookies.html' ;?>
 
 <body>
 
