@@ -13,7 +13,7 @@
     <h1>MinecraftGolden</h1>
     <img src="/assets/MG/MG-transparent.png" alt="" class="pingernos-img">
     <p>
-        MinecraftGolden is a minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program.
+        MinecraftGolden is a Minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program.
         <br/>
         MinecraftGolden currently offers two gamemodes: <b>duels</b> and <b>survival</b>. Survival is split into two worlds, known as old and new survival.
     </p>

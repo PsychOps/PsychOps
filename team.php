@@ -36,40 +36,6 @@
         <div class="card card-1">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://aboutjay.tk/" target="_blank"><img src="assets/team/JayPFP.png" alt=""></a>
-                </div>
-                <div class="contentBx">
-                    <h4>Jay</h4>
-                    <h5>Founder</h5>
-                    <p>Hey! Im Jason, mainly known as Fridge or Jay. I'm 15y/o and since this is more of just a short description, read more <a href="https://aboutjay.tk/" target="_blank">here</a>.</p>
-                </div>
-                <div class="sci">
-                    <a href="https://github.com/JayThePHQ" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/JayThePHQ" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/820190411842781216" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-
-        <div class="card card-1">
-            <div class="card-content">
-                <div class="imgBx">
-                    <img src="assets/team/Whomper.png" alt="">
-                </div>
-                <div class="contentBx">
-                    <h4>MrWhomper</h4>
-                    <h5>Executive</h5>
-                    <p>Hi! My name is MrWhomper. I am an Executive, Developer for PsychOps. I am 19 years old</p>
-                </div>
-                <div class="sci">
-                    <a href="https://discord.com/users/852775166152015902" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-
-        <div class="card card-1">
-            <div class="card-content">
-                <div class="imgBx">
                     <a href="https://www.hilex23.tk/" target="_blank"><img src="assets/team/Hilex23Avatar.png" alt=""></a>
                 </div>
                 <div class="contentBx">

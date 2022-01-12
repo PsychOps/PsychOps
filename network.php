@@ -12,7 +12,7 @@
 <div class="container text-center">
     <h1>Network</h1>
     <p>
-    Welcome to our network page. Here we feature the network of discord servers, affiliates and subsidiaries we control. All of these are currently managed or owned by one or more team members from PsychOps. Want to join in our network? Join our discord server and shoot a DM towards Jay or Faze or <a href="mailto:psychopsorg@gmail.com">mail to us</a>.
+    Welcome to our network page. Here we feature the network of discord servers, affiliates and subsidiaries we control. All of these are currently managed or owned by one or more team members from PsychOps. Want to join in our network? Join our discord server and shoot a DM towards Bluewy or <a href="mailto:psychopsorg@gmail.com">mail to us</a>.
     </p>
     <a href="https://discord.gg/QMhvHuGPMx" class="btn bg-green btn-rounded">Central discord server</a>
 </div>
