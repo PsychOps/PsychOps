@@ -18,7 +18,7 @@
         <div class="card card-1">
             <div class="card-content">
                 <div class="imgBx">
-                    <img src="assets/team/Joshua.jpg" alt="">
+                    <img src="assets/team/MoosicDrago.png" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>Joshua</h4>
