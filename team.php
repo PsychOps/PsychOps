@@ -23,7 +23,7 @@
                 <div class="contentBx">
                     <h4>Joshua</h4>
                     <h5>Founder</h5>
-                    <p>Hi! I'm Joshua. I live in Holland and actively participate in web- and software development. Also Tesla's are godly.</p>
+                    <p>Hi! I'm Joshua. I live in Holland and actively participate in web- and software development. Also, Tesla's are godly.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/BluewyWolff" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -40,7 +40,7 @@
                 <div class="contentBx">
                     <h4>Hilex23</h4>
                     <h5>Executive</h5>
-                    <p>Hey, I'm Hilex23! I'm a developer here at PsychOps but I'm also working on different projects. Read more <a href="https://www.hilex23.tk/" target="_blank">here</a>.</p>
+                    <p>Hey, I'm Hilex23! I'm a developer here at PsychOps, but I'm also working on different projects. Read more <a href="https://www.hilex23.tk/" target="_blank">here</a>.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/Hilex23" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -75,7 +75,7 @@
                 <div class="contentBx">
                     <h4>Discord Bot</h4>
                     <h5>Developer</h5>
-                    <p>Hii, I am Vishal. I am 19 years old and I'm from India. I love programming and i am a programmer.</p>
+                    <p>Hii, I am Vishal. I am 19 years old, and I'm from India. I love programming and I am a programmer.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/krvishalsh" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -93,7 +93,7 @@
                 <div class="contentBx">
                     <h4>Vaxind</h4>
                     <h5>Developer</h5>
-                    <p>Hello there, i'm Vaxind. I'm a developer and i like programming, want to know more about me? Read more <a href="https://www.vaxind.tk" targe="_blank">here</a>.</p>
+                    <p>Hello there, I'm Vaxind. I'm a developer, and I like programming. want to know more about me? Read more <a href="https://www.vaxind.tk" target="_blank">here</a>.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/vaxind" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
