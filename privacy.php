@@ -1,4 +1,4 @@
-Add<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="en">
 
 <?php include 'templates/html/head.html' ;?>
