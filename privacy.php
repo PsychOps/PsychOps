@@ -33,7 +33,7 @@
             <br/> <br/>
             This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
             <br/> <br/>
-            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
+            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception to Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
         </p>
     </div>
 </div>
@@ -45,7 +45,7 @@
         <p>
             PsychOps develops and maintains public, open-source websites and Discord bots at no cost. "PsychOps", "BadWolf", "we", "our" or "us" in this privacy policy refers to PsychOps Org. as well as any of its subsidiaries.
             <br/>
-            PsychOps is a software development organization situated in The Netherlands. PsychOps follows the laws laid onto companies by the European Union and will not under any circumstances follow other laws despite being globally available. Users situated outside of the EU are by exception still allowed to invoke European rights in relation to data deletion or any other legal circumstances.
+            PsychOps is a software development organization situated in The Netherlands. PsychOps follows the laws laid onto companies by the European Union and will not under any circumstances follow other laws despite being globally available. Users situated outside the EU are by exception still allowed to invoke European rights in relation to data deletion or any other legal circumstances.
         </p>
     </div>
 </div>
@@ -106,7 +106,7 @@
     <hr>
     <div class="sectionstart">
         <h1 class="fs-2">User Rights</h1>
-        <p>We save all mentioned data starting from when you start using our products (including this website). You have the right to information about your personal data as well as for correction. Additionally, European users have access to something called "<a href="https://en.wikipedia.org/wiki/Right_to_be_forgotten" target="_blank">the right to be forgotten</a>". We will always accept any and all requests for data deletion or data changes unless its in whereabouts to our blacklist(s).
+        <p>We save all mentioned data starting from when you start using our products (including this website). You have the right to information about your personal data as well as for correction. Additionally, European users have access to something called "<a href="https://en.wikipedia.org/wiki/Right_to_be_forgotten" target="_blank">the right to be forgotten</a>". We will always accept any and all requests for data deletion or data changes unless it's in whereabouts to our blacklist(s).
             <br/> <br/>
             Furthermore, according to <a href="https://gdpr-info.eu/art-8-gdpr/">GDPR</a>, you have the right to lodge a complaint with a supervisory authority if you believe that the processing of your personal data is illicit.
             <br/> <br/>
