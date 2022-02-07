@@ -29,11 +29,10 @@
 
     <div class="sectionstart textend">
         <p>
-            PsychOps' mission is to deliver completely free and open source products to anyone as alternative to paid software, or as entertainment product. To ensure that our mission succeeds, we have to gather certain data from our users for our products. While we gather data, we do wish to be as transparent and respectful about it as we can.
-            <br/> <br/>
-            This privacy policy only applies when you use our Services. Please read this Privacy Policy before engaging with our Services as this will tell you how we collect, store, use, disclose, and otherwise process, your data when providing these Services to you. <b>Please note that this privacy policy is NOT a contract and does not create any obligations or legal rights furthermore.</b>
-            <br/> <br/>
-            The PsychOps owner ("Joshua Slui") is legally responsible for and in charge of the services processing the user data (With exception of Google Analytics). For any concern and/or questions you can send a mail to <a href="mailto:joshuaslui0203@gmail.com">joshuaslui0203@gmail.com</a>
+            PsychOps Studios takes legal issues very seriously and always attempts to comply with the GDPR, as well as other European or Dutch laws. We cannot however guarantee that our website or products are updated in an adequate timing might a change in laws occur, affecting us. We can however guarantee that we will try our best to do so, and will always inform our users about this in a timely manner.
+        </p>
+        <p>
+            The legal page will mostly inform our users about copyright and/or trademarks concerning PsychOps Studios, partners and/or affiliates. If any questions occur or vital information is missing on this page, please contact us at your earliest convenience with <a href="mailto:psychopsorg@gmail.com">psychopsorg@gmail.com</a>.
         </p>
     </div>
 </div>
