@@ -18,17 +18,16 @@
         <div class="card card-1">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://zoniq.tk" target="_blank"><img src="assets/team/Joshua.jpg" alt=""></a>
+                    <img src="assets/team/Joshua.jpg" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>Joshua</h4>
                     <h5>Founder</h5>
-                    <p>Hi! I'm Joshua, better known online as Bluewy. I'm the lead developer, and owner at PsychOps. Check out <a href="https://zoniq.tk" target="_blank">my personal website</a>!</p>
+                    <p>Hi! I'm Joshua. I live in Holland and actively participate in web- and software development. Also Tesla's are godly.</p>
                 </div>
                 <div class="sci">
-                    <a href="https://github.com/ScourgeTheHedgehog" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/FazeHedgehog" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/843866750131109909" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                    <a href="https://github.com/BluewyWolff" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/JamesStraaten" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
