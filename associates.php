@@ -18,6 +18,39 @@
     <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Contact us</a>
 </div>
 
+<div class="container text-center">
+    <div class="cards">
+        <div class="card card-1">
+            <div class="card-content">
+                <div class="imgBx">
+                    <img src="assets/network/TPK.webp" alt="">
+                </div>
+                <div class="contentBx">
+                    <h4>The Paw Kingdom</h4>
+                    <h5>Discord Community</h5>
+                    <p>A warm, welcoming furry server accepting everyone, be it fur, non-fur, or LGBT+ member!</p>
+                </div>
+                <div class="sci">
+                    <a href="https://discord.gg/k64tAer" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card card-2">
+            <div class="card-content">
+                <div class="imgBx">
+                    <a href="mg.php"><img src="assets/MG/MG.png" alt=""></a>
+                </div>
+                <div class="contentBx">
+                    <h4>MinecraftGolden</h4>
+                    <h5>Minecraft Server</h5>
+                    <p>MinecraftGolden is a Minecraft server hosted through <a href="https://aternos.org" target="_blank">Aternos</a>. Owned by Bench182 and managed by PsychOps as part of our community program, offering both survival and duels.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 </body>
 
 </html>
