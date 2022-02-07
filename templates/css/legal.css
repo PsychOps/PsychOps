@@ -34,3 +34,14 @@
         margin-right: initial;
     }
 }
+
+.textcard {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: var(--color-dark-hover);
+    border-style: solid;
+    border-color: var(--color-dark-mark);
+    border-radius: 5px;
+    box-shadow: -0.5em -0.5em 1em var(--color-loading);
+}
