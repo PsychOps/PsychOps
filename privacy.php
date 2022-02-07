@@ -56,14 +56,12 @@
         <h1 class="fs-2">Information we collect and how we use it</h1>
         <p>We only gather the data listed below. Please note; <b>This data is only gathered once you start using our Services and specifically the parts that require that specific type of data.</b> What Service including which part of the Service gathers what data is also included below.</p>
         <h2 id="website">Website</h2>
-        <p>
-            <lu>
+            <ul>
                 <li>Cookies</li>
                 <li>Browser and the browser version</li>
                 <li>Operating System</li>
                 <li>Device Type</li>
-            </lu>
-        </p>
+            </ul>
         <p>All this data is collected by Google Analytics for Google Analytics. This way we can see information and data about our website visitors including but not limited to the user amount. Additionally, we can use this data to adjust our website to fit the needs of our users. <b>Note that we can not guarantee the accuracy of this list as it's collected by Google Analytics, rather than us.</b> </p>
         <h2 id="pingernos">Pingernos</h2>
         <p>No data is collected for this bot.</p>
