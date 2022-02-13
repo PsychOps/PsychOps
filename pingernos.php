@@ -19,7 +19,7 @@
     </p>
 
     <a href="https://discord.com/api/oauth2/authorize?client_id=889197952994791434&permissions=274878286848&scope=bot" target="_blank" class="btn bg-green btn-rounded">Invite it here!</a>
-    <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Central Discord Server</a>
+    <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded"><span><i class="fab fa-discord" aria-hidden="true"></i></span> Central Discord Server</a>
 </div>
 
 </body>
