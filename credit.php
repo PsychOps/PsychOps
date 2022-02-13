@@ -12,7 +12,7 @@
 <div class="container text-center">
     <h1>Credit</h1>
     <p>
-        Contributions within PsychOps outside the team does not go unappreciated, and we are always open to contributions through pull requests on any of our repositories. Think you got an idea, bugfix, or an improvement for one of our products? Fork the repository and make the necessary changes, then create a pull request and a team member will be quick to check it out. All of our repositories can be found <a href="https://github.com/PsychOps">on our github</a>.
+        Contributions within PsychOps outside the team does not go unappreciated, and we are always open to contributions through pull requests on any of our repositories. Think you got an idea, bugfix, or an improvement for one of our products? Fork the repository and make the necessary changes, then create a pull request and a team member will be quick to check it out. All of our repositories can be found <a href="https://github.com/PsychOps">in our Github organization</a>.
     </p>
     <br/>
     <p>
