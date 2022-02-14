@@ -57,30 +57,12 @@
                 </div>
                 <div class="contentBx">
                     <h4>Toothy</h4>
-                    <h5>Developer</h5>
+                    <h5>Executive</h5>
                     <p>Hi, I'm Toothy I'm 18 years old and from Germany and interested in coding which is why I'm here! My favorite language is Python.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/ToothyDev" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
                     <a href="https://discord.com/users/341988909363757057" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
-                </div>
-            </div>
-        </div>
-
-        <div class="card card-2">
-            <div class="card-content">
-                <div class="imgBx">
-                    <a href="https://krvishal.me/" target="_blank"><img src="assets/team/DiscordBot.jpg" alt=""></a>
-                </div>
-                <div class="contentBx">
-                    <h4>Discord Bot</h4>
-                    <h5>Developer</h5>
-                    <p>Hii, I am Vishal. I am 19 years old, and I'm from India. I love programming and I am a programmer.</p>
-                </div>
-                <div class="sci">
-                    <a href="https://github.com/krvishalsh" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/imkrvishal" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/726287877897584673" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
