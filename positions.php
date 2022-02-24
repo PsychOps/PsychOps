@@ -12,7 +12,7 @@
 <div class="container text-center">
     <div class="container">
         <img src="/assets/S1.png" alt="">
-        <h1>PsychOps Studios Developer Application)</h1>
+        <h1>PsychOps Studios Developer Application</h1>
         <p class="subtitle"> <i>We now use Google Forms for applications</i> </p>
     </div>
 </div>
@@ -20,8 +20,9 @@
 <div class="container sectionstart">
 
     <div class="container sectionstart text-center">
-        <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your application</a>
-        <p> <i> A formal job application is required. Additionally, please send in your resume if you have one. </i> </p>
+        <a href="https://forms.gle/m7hkThnEEYyw4s8a6" target="_blank" class="btn bg-green btn-rounded">Apply for the job!</a>
+        <p> <i> Additionally, please send in your resume if you have one. </i> </p>
+        <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your resume!</a>
     </div>
 
     <div class="container sectionstart">
