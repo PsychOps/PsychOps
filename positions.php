@@ -40,7 +40,7 @@
 
 <div class="container sectionstart">
     <div class="container">
-        <p>Lastly, PsychOps wishes to maintain a good and proper image with its users and does not wish to take part in anything that may contradict european law, the discord ToS, our own privacy policy or other legal issues that may affect PsychOps as organization. If applicants are prone to causing such issues, the application will be declined immediately. We will do thorough checks on our applicants to make sure their applications are honest, and that they may not cause issues for our organization at a later moment.</p>
+        <p>Lastly, PsychOps wishes to maintain a good and proper image with its users and does not wish to take part in anything that may contradict European law, the Discord ToS, our own privacy policy or other legal issues that may affect PsychOps as organization. If applicants are prone to causing such issues, the application will be declined immediately. We will do thorough checks on our applicants to make sure their applications are honest, and that they may not cause issues for our organization at a later moment.</p>
     </div>
 </div>
 

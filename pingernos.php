@@ -8,7 +8,6 @@
 <?php include 'templates/html/cookies.html' ;?>
 
 <body>
-
     <div class="container text-center">
         <h1>Pingernos</h1>
         <img src="assets/Pingernos.png" alt="" class="pingernos-img">
@@ -39,7 +38,6 @@
         <p class="random">Ask for support in our Discord server!</p>
         <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="btn bg-green btn-rounded">Central Discord Server</a>
     </div>
-    
 </body>
 
 </html>
