@@ -70,12 +70,12 @@
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
-                    <img src="assets/team/Aresiel.gif" alt="">
+                    <img src="assets/team/Aresiel.gif" alt="" style="image-rendering: optimizeSpeed; image-rendering: crisp-edges; image-rendering: pixelated">
                 </div>
                 <div class="contentBx">
                     <h4>Aresiel</h4>
                     <h5>Developer</h5>
-                    <p>HGreetings! I am a human individual from the planet Earth.</p>
+                    <p>Greetings! I am a human individual from the planet Earth.</p>
                 </div>
                 <div class="sci">
                     <a href="https://github.com/Aresiel" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
