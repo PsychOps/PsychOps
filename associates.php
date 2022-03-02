@@ -36,6 +36,22 @@
             </div>
         </div>
 
+        <div class="card card-1">
+            <div class="card-content">
+                <div class="imgBx">
+                    <img src="assets/network/NightFuryCraft.png" alt="">
+                </div>
+                <div class="contentBx">
+                    <h4>NightFuryCraft</h4>
+                    <h5>Minecraft Server</h5>
+                    <p>NightFuryCraft is a custom survival experience server hosted on Aternos. Owned by Delta and Toothy.</p>
+                </div>
+                <div class="sci">
+                    <a href="https://discord.gg/WWMqj75GFE" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
