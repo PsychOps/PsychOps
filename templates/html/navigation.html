@@ -1,18 +1,47 @@
 <script>
     $(document).ready(function(){
-    $(".dropdown").hover(function(){
-      var dropdownMenu = $(this).children(".dropdown-menu");
-      if(dropdownMenu.is(":visible")){
-        dropdownMenu.parent().toggleClass("open");
-      }
-    });
+        $(".dropdown").hover(function(){
+          var dropdownMenu = $(this).children(".dropdown-menu");
+          if(dropdownMenu.is(":visible")){
+            dropdownMenu.parent().toggleClass("open");
+          }
+        });
+
+        // Dark/Light mode workings
+        let lightmode = localStorage.getItem("lightmode") === "true";
+        if (lightmode === null) {
+            localStorage.setItem("lightmode", false)
+            lightmode = false
+        }
+        if(lightmode) {
+          $("body").addClass("lightmode")
+          $(".lightmode-switch").removeClass("fa-moon").addClass("fa-sun")
+        }
+        else {
+          $("body").removeClass("lightmode")
+          $(".lightmode-switch").removeClass("fa-sun").addClass("fa-moon")
+        }
+
+        $(".lightmode-switch").click(function (){
+            if(lightmode){
+                localStorage.setItem("lightmode", false)
+                lightmode = false
+                $("body").removeClass("lightmode")
+                $(".lightmode-switch").removeClass("fa-sun").addClass("fa-moon")
+            } else {
+                localStorage.setItem("lightmode", true)
+                lightmode = true
+                $("body").addClass("lightmode")
+                $(".lightmode-switch").removeClass("fa-moon").addClass("fa-sun")
+            }
+        })
   });
 </script>
 
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#">
-    <img src="/assets/PsychOpsTransparent.png" alt="" height="25">
+    <img src="/assets/PsychOpsTransparentPlaceholder.png" alt="" height="25">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -49,8 +78,11 @@
         </div>
       </li>
     </ul>
+    <a>
+      <i class="fas fa-solid fa-moon fa-2x lightmode-switch" style="color: var(--color-light)"></i>
+    </a>
     <a href="https://github.com/PsychOps" target="_blank">
-      <i class="fab fa-github fa-2x" style="color: white"></i>
+      <i class="fab fa-github fa-2x" style="color: var(--color-light)"></i>
     </a>
   </div>
 </nav>
