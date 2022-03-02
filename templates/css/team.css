@@ -14,7 +14,7 @@
    height: 515px;
    padding: 60px 30px;
    margin: 20px;
-   background: var(--color-card-background);
+   background: #333;
    border-radius: 20px;
 }
 
