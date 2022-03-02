@@ -121,7 +121,7 @@
                 </div>
                 <div class="sci">
                     <a href="https://twitter.com/imcomfy_" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/637283183335047170" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/637283183335047170" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="sci">
                     <a href="https://github.com/Amgelo563" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/235428738748121088" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/235428738748121088" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="sci">
                     <a href="https://twitter.com/carlwife42" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                    <a href="https://discord.com/users/584672380085862407" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/584672380085862407" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -169,7 +169,7 @@
                     <h5>Graphic Designer</h5>
                 </div>
                 <div class="sci">
-                    <a href="https://discord.com/users/438049859262480386" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/438049859262480386" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
