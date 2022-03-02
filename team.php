@@ -21,13 +21,13 @@
                     <img src="assets/team/MoosicDrago.png" alt="">
                 </div>
                 <div class="contentBx">
-                    <h4>Joshua</h4>
+                    <h4>Delta</h4>
                     <h5>Founder</h5>
-                    <p>Hi! I'm Joshua. I live in Holland and actively participate in web- and software development. Also, Tesla's are godly.</p>
+                    <p>Hi! I'm Delta. I live in Holland and actively participate in web- and software development. Also, Tesla's are godly.</p>
                 </div>
                 <div class="sci">
-                    <a href="https://github.com/BluewyWolff" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/JamesStraaten" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://github.com/DeltaSLM" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/DeltaSLM" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
