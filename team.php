@@ -67,6 +67,23 @@
             </div>
         </div>
 
+        <div class="card card-1">
+            <div class="card-content">
+                <div class="imgBx">
+                    <img src="assets/team/Aresiel.gif" alt="">
+                </div>
+                <div class="contentBx">
+                    <h4>Aresiel</h4>
+                    <h5>Developer</h5>
+                    <p>HGreetings! I am a human individual from the planet Earth.</p>
+                </div>
+                <div class="sci">
+                    <a href="https://github.com/Aresiel" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://discord.com/users/104933285506908160" target="_blank"><i class="fab fa-discord" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
