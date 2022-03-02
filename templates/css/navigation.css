@@ -100,21 +100,3 @@
     color: var(--color-dark-hover);
     border-color: var(--color-dark);
 }
-
-.navbar-collapse > a {
-    margin-left: 2rem;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: var(--color-light)
-}
-
-img[src="/assets/PsychOpsTransparentPlaceholder.png"] {
-    background-image: var(--large-logo-image);
-    background-position: center;
-    background-size: contain;
-}
-
-.lightmode-switch {
-    cursor: pointer;
-}

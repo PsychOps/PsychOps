@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 
-
-/* Darkmode / Defaults */
 :root {
     --font-main: "Play", sans-serif;
     --font-mono: "Space Mono", monospace;
@@ -20,31 +18,4 @@
     --color-dark-text: #b5b5b5;
     --color-dark-mode: black;
     --color-dark-mark: #3f3f3f;
-    --color-card-background: #333;
-
-    --large-logo-image: url("/assets/PsychOpsTransparent.png")
-}
-
-/* Lightmode */
-.lightmode {
-    --font-main: "Play", sans-serif;
-    --font-mono: "Space Mono", monospace;
-    --bold: 600;
-    --extra-bold: 800;
-
-    --color-dark: #e7e7e7;
-    --color-light: #171717;
-    --color-main: #19ba19;
-    --color-danger: #f91c1c;
-    --color-success: var(--color-main);
-    --color-warn: #f97f12;
-    --color-loading: #4c4c4c;
-
-    --color-dark-hover: #e7e7e7;
-    --color-dark-text: #505050;
-    --color-dark-mode: white;
-    --color-dark-mark: #c9c9c9;
-    --color-card-background: #ddd;
-
-    --large-logo-image: url("/assets/PsychOpsTransparentLightmode.png")
 }
