@@ -67,7 +67,7 @@
             </div>
         </div>
 
-        <div class="card card-1">
+        <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
                     <img src="assets/team/Aresiel.gif" alt="">
