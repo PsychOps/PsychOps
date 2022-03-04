@@ -21,6 +21,7 @@
     --color-dark-mode: black;
     --color-dark-mark: #3f3f3f;
     --color-card-background: #333;
+    --color-link-highlight: rgba(255,255,255,.75);
 
     --large-logo-image: url("/assets/PsychOpsTransparent.png")
 }
@@ -45,6 +46,7 @@
     --color-dark-mode: white;
     --color-dark-mark: #c9c9c9;
     --color-card-background: #ddd;
+    --color-link-highlight: rgba(23, 23, 23, 0.7);
 
     --large-logo-image: url("/assets/PsychOpsTransparentLightmode.png")
 }

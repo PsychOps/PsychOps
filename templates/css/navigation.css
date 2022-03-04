@@ -113,6 +113,10 @@
     color: var(--color-light)
 }
 
+.nav-link:hover {
+    color: var(--color-link-highlight)
+}
+
 img[src="/assets/PsychOpsTransparentPlaceholder.png"] {
     background-image: var(--large-logo-image);
     background-position: center;
