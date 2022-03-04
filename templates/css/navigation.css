@@ -10,6 +10,10 @@
     display: block;
 }
 
+.dropdown-divider {
+    border-color: var(--color-light);
+}
+
 .dropdown-menu {
     border-radius: 0px;
     background-color: var(--color-dark);
