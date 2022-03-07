@@ -7,8 +7,6 @@
 
 <?php include 'templates/html/navigation.html' ;?>
 
-<?php include 'templates/html/cookies.html' ;?>
-
 <body>
 
 <div class="notnavtext text-center">
