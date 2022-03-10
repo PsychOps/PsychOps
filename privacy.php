@@ -64,7 +64,12 @@
             </ul>
         <p>All this data is collected by Google Analytics for Google Analytics. This way we can see information and data about our website visitors including but not limited to the user amount. Additionally, we can use this data to adjust our website to fit the needs of our users. <b>Note that we can not guarantee the accuracy of this list as it's collected by Google Analytics, rather than us.</b> </p>
         <h2 id="pingernos">Pingernos</h2>
-        <p>No data is collected for this bot.</p>
+        <p>Pingernos gathers the following data:</p>
+            <ul>
+                <li>Guild ID</li>
+                <li>Server IPs</li>
+            </ul>
+        <p>This data is only gathered when the <code>setserver</code> command is executed with a real IP provided. This data can be removed by you using <code>setserver delete</code>.</p>
     </div>
 </div>
 
