@@ -23,6 +23,8 @@
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your resume!</a>
     </div>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdK4gyBze0FzApf-7ztPmCEjiFF78NLaAfFslhNFZKL3SA0Eg/viewform?embedded=true" width="100%" height="2590" frameborder="0" marginheight="0" marginwidth="0" style="background-color: white; border: inherit; border-radius: 25px">Loading…</iframe>
+<!--
     <div class="container sectionstart">
         <p>
             PsychOps Development is looking for new developers to join our team. Our goal is to provide in free and open-source products that are available for anyone to use without (m)any issues. We want our developers to share in the motivation for that goal. <b>Team members at PsychOps do not get paid, please do not apply for this job just for money.</b>
@@ -41,7 +43,7 @@
         <p>Lastly, PsychOps wishes to maintain a good and proper image with its users and does not wish to take part in anything that may contradict European law, the Discord ToS, our own privacy policy or other legal issues that may affect PsychOps as organization. If applicants are prone to causing such issues, the application will be declined immediately. We will do thorough checks on our applicants to make sure their applications are honest, and that they may not cause issues for our organization at a later moment.</p>
     </div>
 </div>
-
+-->
 </body>
 
 </html>
