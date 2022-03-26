@@ -85,7 +85,7 @@
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
-                    <a href="https://dobby-progam.github.io/html/" target="_blank"><img src="assets/team/Dobie.png" alt="" style="image-rendering: optimizeSpeed; image-rendering: crisp-edges; image-rendering: pixelated"></a>
+                    <a href="https://dobby-progam.github.io/html/index.html" target="_blank"><img src="assets/team/Dobie.png" alt="" style="image-rendering: optimizeSpeed; image-rendering: crisp-edges; image-rendering: pixelated"></a>
                 </div>
                 <div class="contentBx">
                     <h4>Dobie Bouwer</h4>
