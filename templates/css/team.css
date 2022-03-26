@@ -26,6 +26,14 @@
    box-shadow: -0.5em -0.5em 1em #19BA19;
 }
 
+.card-3 {
+   box-shadow: -0.5em -0.5em 1em #E8C02A;
+}
+
+.card-4 {
+   box-shadow: -0.5em -0.5em 1em #FFB3EC;
+}
+
 /*.cards
 {
   padding-left: 100px;

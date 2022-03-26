@@ -23,7 +23,7 @@
         <a href="mailto:psychopsorg@gmail.com" target="_blank" class="btn bg-green btn-rounded">Mail us your resume!</a>
     </div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdK4gyBze0FzApf-7ztPmCEjiFF78NLaAfFslhNFZKL3SA0Eg/viewform?embedded=true" width="100%" height="2590" frameborder="0" marginheight="0" marginwidth="0" style="background-color: white; border: inherit; border-radius: 25px">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdK4gyBze0FzApf-7ztPmCEjiFF78NLaAfFslhNFZKL3SA0Eg/viewform?embedded=true" width="100%" height="2590" frameborder="0" marginheight="0" marginwidth="0" style="background-color: black; border: inherit; border-radius: 25px">Loading…</iframe>
 <!--
     <div class="container sectionstart">
         <p>
