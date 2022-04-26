@@ -8,7 +8,7 @@
 <body>
 
 <div class="container text-center">
-    <img src="/assets/S1.png" alt="">
+    <img src="/assets/images/LOGO.png" alt="" height="250">
     <h1>About PsychOps</h1>
     <p>
         PsychOps Studios is an organization based in the Netherlands owned by <a href="https://zoniq.tk" target="_blank">Joshua</a> and <a href="https://hilex23.tk/" target="_blank">Manuel</a> dedicated to open-source software and web development with <b>6</b> developers, including the owners. With user experience and feedback in mind, PsychOps Studios always attempts to provide its users with products that are to their liking.

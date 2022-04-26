@@ -8,7 +8,7 @@
 <body>
 
 <div class="container text-center">
-    <img src="/assets/S1.png" alt="">
+    <img src="/assets/images/LOGO.png" alt="" height="250">
     <h1>Associates</h1>
     <p>
         Associates work narrowly together with PsychOps to support each other in the development of products, creating a community or investing into (nearly) abandoned projects in the belief that it may be useful to people. Feel like you, your company or your organization fit this description? Be sure to email us!

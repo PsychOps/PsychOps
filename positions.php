@@ -9,7 +9,7 @@
 
 <div class="container text-center">
     <div class="container">
-        <img src="/assets/S1.png" alt="">
+        <img src="/assets/images/LOGO.png" alt="" height="250">
         <h1>PsychOps Studios Developer Application</h1>
         <p class="subtitle"> <i>We now use Google Forms for applications</i> </p>
     </div>

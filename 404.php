@@ -10,7 +10,7 @@
 <body>
 
 <div class="notnavtext text-center">
-    <img src="/assets/S1.png" alt="">
+    <img src="/assets/images/LOGO.png" alt="" height="250">
     <p class="fs-1">404 - Page Not Found</p>
     <p>
         We are unable to recognize this page. Are you sure you landed at the right place?
