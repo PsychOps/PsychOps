@@ -115,11 +115,7 @@
                 </div>
             </div>
         </div>
-    </div>
-</div>
 
-<div class="text-center">
-    <div class="cards">
         <div class="card card-2">
             <div class="card-content">
                 <div class="imgBx">
@@ -137,13 +133,16 @@
             </div>
         </div>
 
+    </div>
+</div>
+
 <div class="container text-center">
 <h1 class="title">Supporters</h1>
 </div>
 
 <div class="text-center">
     <div class="cards">
-        <div class="card card-4">
+        <div class="card card-3">
             <div class="card-content">
                 <div class="imgBx">
                     <img src="/assets/supporters/Bench.png" alt="">
@@ -151,7 +150,7 @@
                 <div class="contentBx">
                     <h4>Bench</h4>
                     <h5>Network Manager</h5>
-                    <p>Hey there! I'm bench/comfy, a 15 year old boy which plays way too much Minecraft. I'm pretty shy, so don't expect me to initiate conversations that often, but if you want to talk, you can DM me!</p>
+                    <p>Hey there! I'm bench/comfy, a 15 year old boy which plays way too much Minecraft. if you want to talk, you can DM me!</p>
                 </div>
                 <div class="sci">
                     <a href="https://twitter.com/imcomfy_" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
@@ -160,7 +159,7 @@
             </div>
         </div>
 
-        <div class="card card-3">
+        <div class="card card-4">
             <div class="card-content">
                 <div class="imgBx">
                     <img src="/assets/supporters/Amgelo.png" alt="">
@@ -176,7 +175,7 @@
             </div>
         </div>
 
-        <div class="card card-3">
+        <div class="card card-4">
             <div class="card-content">
                 <div class="imgBx">
                     <a href="https://ko-fi.com/bigchez" target="_blank"><img src="assets/supporters/Big Chez.png" alt=""></a>
@@ -193,7 +192,7 @@
             </div>
         </div>
 
-        <div class="card card-3">
+        <div class="card card-4">
             <div class="card-content">
                 <div class="imgBx">
                     <img src="assets/supporters/Somebody.png" alt="">
