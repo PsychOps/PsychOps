@@ -123,11 +123,11 @@
                 </div>
                 <div class="contentBx">
                     <h4>MattGold</h4>
-                    <h5>SSM</h5>
+                    <h5>SMM</h5>
                     <p>I got too much swag and also am the social media manager</p>
                 </div>
                 <div class="sci">
-                    <a href="https://github.com/BottleWasTaken" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+                    <a href="https://github.com/MattGold-5829" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
                     <a href="https://twitter.com/MattGold_" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
                 </div>
             </div>
