@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Play&display=swap');
+
+:root {
+    box-sizing: border-box;
+
+    --main: #dddddd;
+
+    --txt: #333;
+
+    /*Header*/
+    --header: #2b2d2f;
+    --header-hover: #56fee1;
+    --header-txt-bg: black;
+    --header-txt: white;
+    --header-bg: var(--header);
+}
