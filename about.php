@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<?php include '/templates/head.html' ;?>
+<?php include 'templates/head.html' ;?>
 
-<?php include '/templates/navbar.html' ;?>
+<?php include 'templates/navbar.html' ;?>
 
 <body>
 
@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <script src="/assets/js/navbar.js"></script>
+    <script src="assets/js/navbar.js"></script>
 
 </body>
 
