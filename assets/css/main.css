@@ -15,27 +15,6 @@ body {
     font-family: 'Play', sans-serif;
 }
 
-.blackground {
-    background: var(--main-black);
-    color: var(--main);
-    padding: 2rem;
-}
-
-.whiteground {
-    background: var(--main);
-    color: var(--main-black);
-    padding: 2rem;
-}
-
-.home, .about {
-    font-family: 'Play', sans-serif;
-}
-
-.page-center {
-    padding: 70px 0;
-    text-align: center;
-}
-
 .home-logo {
     display: block;
     margin-left: auto;
@@ -85,14 +64,66 @@ body {
     margin-top: 10vh;
 }
 
-.box {
-    border-style: groove;
-    border-radius: 15px;
-    border-color: black;
-    /*margin: 20px;*/
-    padding: 10px;
+.subtext-2 {
+    font-size: 2vh;
+    font-weight: 300;
+    margin-top: 3vh;
 }
 
-.accordion-button {
-    position: unset;
+.team-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 40px 0;
+}
+
+.member {
+    flex: 1 1 250px;
+    margin: 50px;
+    text-align: center;
+    padding: 20px 10px;
+    max-width: 300px;
+    transition: all 0.3s;
+}
+
+.member img {
+    display: block;
+    width: 275px; height: 275px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.owner {
+    border:4px solid var(--owner);
+}
+
+.executive {
+    border:4px solid var(--executive);
+}
+
+.project-manager {
+    border:4px solid var(--project);
+}
+
+.team-dev {
+    border:4px solid var(--team);
+}
+
+.social-manager {
+    border:4px solid var(--social);
+}
+
+.member h2 {
+    text-transform: uppercase;
+    font-size: 24px;
+    color: var(--header);
+    margin: 15px 0;
+}
+
+.member p {
+    font-size: 20px;
+    color: var(--txt);
+    text-transform: uppercase;
+    line-height: 1.6;
 }

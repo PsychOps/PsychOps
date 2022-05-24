@@ -14,6 +14,10 @@
     --header-txt: white;
     --header-bg: var(--header);
 
-    /*Theme colours*/
-    --main-black: black;
+    /*Team Colors*/
+    --owner: #a020f0;
+    --executive: #b90d63;
+    --project: #f1ec66;
+    --team: #19ba19;
+    --social: #127abd;
 }
