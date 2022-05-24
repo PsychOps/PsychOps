@@ -12,6 +12,7 @@ body {
     background-color: var(--main);
     color: var(--txt);
     font-size: 1rem;
+    font-family: 'Play', sans-serif;
 }
 
 .home, .about {
