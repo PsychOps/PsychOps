@@ -17,6 +17,13 @@
         </div>
     </div>
 
+    <div class="text-center">
+        <div class="container">
+            <img src="/assets/images/psychops/VAL.jpg" alt="Val, our mascot!" style="height: 400px; border-radius: 25px">
+            <br>Meet Val, our mascot!
+        </div>
+    </div>
+
     <script src="assets/js/navbar.js"></script>
 
 </body>
