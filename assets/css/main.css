@@ -124,6 +124,23 @@ body {
     margin-top: 3vh;
 }
 
+.page-center {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.box {
+    border-style: groove;
+    border-radius: 15px;
+    border-color: black;
+    /*margin: 20px;*/
+    padding: 10px;
+}
+
+.accordion-button {
+    position: unset;
+}
+
 .team-row {
     display: flex;
     justify-content: center;
