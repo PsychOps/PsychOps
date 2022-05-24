@@ -36,6 +36,11 @@ header {
   flex-direction: row;
 }
 
+.menu dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .menu li {
   list-style: none;
 }
