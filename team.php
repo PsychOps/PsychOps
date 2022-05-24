@@ -53,7 +53,7 @@
             <a href="https://discord.com/users/104933285506908160" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
         </div>
         <div class="member">
-            <img src="assets/images/team/dobbie.jpg" class="team-dev" alt="">
+            <a href="https://dobbie.tk/" target="_blank"><img src="assets/images/team/dobbie.jpg" class="team-dev" alt=""></a>
             <h2>Dobbie</h2>
             <p>Developer</p>
             <a href="https://github.com/Dobby-progam" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
