@@ -31,6 +31,11 @@ body {
     font-family: 'Play', sans-serif;
 }
 
+.page-center {
+    padding: 70px 0;
+    text-align: center;
+}
+
 .home-logo {
     display: block;
     margin-left: auto;
@@ -78,4 +83,16 @@ body {
     font-size: 2vh;
     font-weight: 300;
     margin-top: 10vh;
+}
+
+.box {
+    border-style: groove;
+    border-radius: 15px;
+    border-color: black;
+    /*margin: 20px;*/
+    padding: 10px;
+}
+
+.accordion-button {
+    position: unset;
 }
