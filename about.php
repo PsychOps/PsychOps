@@ -7,13 +7,13 @@
 
 <body>
 
-    <div class="about container text-center">
+    <div class="about container text-center page-center">
         <h1 class="main-title">About PsychOps Studios</h1>
-        <p class="main-text">PsychOps Studios is an organization based in the Netherlands owned by <a href="https://zoniq.tk" target="_blank" class="txta">Joshua Slui</a> and <a href="https://heelys32.ml/" target="_blank" class="txta">Manuel Maiani</a> dedicated to open-source software and web development with <b>5</b> developers, including the owners. With user experience and feedback in mind, PsychOps Studios always attempts to provide its users with products that are to their liking.
-            Additionally, PsychOps also functions as a hub for developers of any field. With our main Discord server, we allow getting support for any coding language and our products, from both the community and the staff team at PsychOps. <b>PsychOps Studios does not take commissions in compliance to Dutch laws.</b>
+        <p class="main-text">
+            PsychOps started with the vision of creating free, open-source products. Started by <a href="mailto:joshua@psychops.tk">Joshua</a> and owned together with <a href="mailto:manuel@psychops.tk">Manuel</a>. The organization is located in The Netherlands, but operates online and under European regulation. Our main focus in our products is to give users something new and fresh without any hidden costs, while giving them something to their liking. PsychOps Studios supports FOSS and will always keep products open-source through github.
         </p>
         <div class="txt-btn-div">
-            <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="txt-btn">Join Our Discord Server For More Info</a>
+            <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="txt-btn">Discord Server</a>
         </div>
     </div>
 
