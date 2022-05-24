@@ -56,6 +56,11 @@ body {
     color: var(--main-black);
 }
 
+.list-info .entry, .list .entry.entry-info {
+    background-color: var(--information);
+    color: var(--main-black);
+}
+
 .list .entry {
     width: 50%;
     margin-bottom: 10px;
