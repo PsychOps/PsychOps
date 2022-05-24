@@ -48,7 +48,7 @@
             <div class="member">
                 <img src="assets/images/team/aresiel.gif" class="team-dev" alt="">
                 <h2>Aresiel</h2>
-                <p>Web Developer</p>
+                <p>Developer</p>
                 <a href="https://github.com/Aresiel" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://discord.com/users/104933285506908160" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
