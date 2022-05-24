@@ -6,7 +6,6 @@
 <?php include 'templates/navbar.html' ;?>
 
 <body>
-
     <div class="home container">
         <h1 class="main-title text-center">Privacy policy</h1>
     </div>
