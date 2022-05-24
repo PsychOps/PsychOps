@@ -22,4 +22,9 @@
     --team: #19ba19;
     --social: #127abd;
     --graphic: #ffb3ec;
+
+    /*Status Colors*/
+    --success: #02e652;
+    --information: #56fee1;
+    --danger: #dd2121;
 }
