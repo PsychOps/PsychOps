@@ -18,6 +18,7 @@
                 <a href="https://github.com/DeltaSLM" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://twitter.com/JamesStrEVs" target="_blank"><i class="fab fa-twitter" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://discord.com/users/839237573595365406" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
+                <a href="mailto:joshua@psychops.tk" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
                 <a href="https://heelys32.ml" target="_blank"><img src="assets/images/team/manuel.png" class="owner" alt=""></a>
@@ -26,6 +27,7 @@
                 <a href="https://github.com/Hilex23" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://twitter.com/hilex23" target="_blank"><i class="fab fa-twitter" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://discord.com/users/370258256775479307" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
+                <a href="mailto:manuel@psychops.tk" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
                 <img src="assets/images/team/jimi.png" class="executive" alt="">
