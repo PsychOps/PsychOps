@@ -34,7 +34,7 @@
                 <br/>
                 <br/>
             <p class="dotted subtext-3">
-                <code><@889197952994791434> info</code> displays our privacy policy (https://psychops.tk/privacy.php)
+                <code><@889197952994791434> privacy</code> displays our privacy policy (https://psychops.tk/privacy.php)
             </p>
         </div>
     </div>
