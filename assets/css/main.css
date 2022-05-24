@@ -28,6 +28,7 @@ body {
 .main-title {
     margin-top: 3vh;
     font-weight: bold;
+    font-size: 5vh;
 }
 
 .main-text {
@@ -114,6 +115,10 @@ body {
 
 .social-manager {
     border:4px solid var(--social);
+}
+
+.graphic-designer {
+    border:4px solid var(--graphic);
 }
 
 .member h2 {
