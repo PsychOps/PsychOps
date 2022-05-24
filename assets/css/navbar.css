@@ -9,6 +9,8 @@ header {
 }
 
 .branding-logo {
+  display: flex;
+  flex-direction: row;
   color: var(--header-txt);
   font-size: 2vh;
   text-decoration: none;
@@ -25,6 +27,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
 }
 
 .menu {
@@ -142,7 +146,7 @@ header {
     opacity: 0;
     transform: scaleY(0);
     transform-origin: top center;
-    transition: 200ms transform cubic-bezier(0.36, 0.4, 0.42, 1.48) 100ms, 100ms opacity ease-in-out;
+    transition: 200ms transform cubic-bezier(0.36, 0.4, 0.42, 1.48) 100ms, 100ms, opacity ease-in-out;
     overflow-y: scroll;
   }
   .menu > li > a {
