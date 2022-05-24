@@ -9,7 +9,7 @@
 
     <div class="team container text-center">
         <h1 class="main-title">Our Supporters</h1>
-        <p class="main-text">We currently have 3 graphic designers that help us by creating amazing logos, banners, and much more.</p>
+        <p class="main-text">We currently have 3 graphic designers that help us by creating amazing logos, banners, and much more.<br>Any and all logos created by them are owned by us, but honourably copyrighted to the responsible graphic designer.</p>
         <div class="team-row">
             <div class="member">
                 <img src="assets/images/supporters/amgelo.png" class="graphic-designer" alt="">
