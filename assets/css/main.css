@@ -17,6 +17,39 @@ body {
     font-family: 'Play', sans-serif;
 }
 
+.blackground {
+    background: var(--main-black);
+    color: var(--main);
+    padding: 2rem;
+}
+
+.whiteground {
+    background: var(--main);
+    color: var(--main-black);
+    padding: 2rem;
+}
+
+.home, .about {
+    font-family: 'Play', sans-serif;
+}
+
+.page-center {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.box {
+    border-style: groove;
+    border-radius: 15px;
+    border-color: black;
+    /*margin: 20px;*/
+    padding: 10px;
+}
+
+.accordion-button {
+    position: unset;
+}
+
 .home-logo {
     display: block;
     margin-left: auto;
