@@ -35,12 +35,13 @@
         </ul>
     </div>
 </div>
-
+<!--
 <div>
     <div class="container">
-        <a href="about.php" class="btn btn-info">Looking to partner instead?</a>
+        <a href="partner.php" class="btn btn-info">Looking to partner instead?</a>
     </div>
 </div>
+-->
 
 <script src="assets/js/navbar.js"></script>
 
