@@ -46,6 +46,24 @@ body {
     padding: 10px;
 }
 
+.list-success .entry, .list .entry.entry-success {
+    background-color: var(--success);
+    color: var(--main-black);
+}
+
+.list-danger .entry, .list .entry.entry-danger {
+    background-color: var(--danger);
+    color: var(--main-black);
+}
+
+.list .entry {
+    width: 50%;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border-radius: 2px;
+    padding: 8px 16px;
+}
+
 .accordion-button {
     position: unset;
 }
