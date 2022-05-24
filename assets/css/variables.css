@@ -13,4 +13,7 @@
     --header-txt-bg: black;
     --header-txt: white;
     --header-bg: var(--header);
+
+    /*Theme colours*/
+    --main-black: black;
 }
