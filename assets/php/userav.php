@@ -25,7 +25,7 @@ function getAv($id)
     $a .= $id;
     $a .= "/";
     $a .= $json_decode['avatar'];
-    //$a .= ".png";
+    $a .= "?size=2048";
     echo $a;
 }
 ?>
