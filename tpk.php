@@ -20,7 +20,7 @@
     <div class="container team" style="padding: 0">
         <div class="team-row" style="padding: 0">
             <div class="member">
-                <img src="assets/images/team/toothy.png" class="owner" alt="">
+                <img src="<?php getAv(341988909363757057); ?>" class="owner" alt="">
                 <h2 style="color: var(--main)">Toothy</h2>
                 <p style="color: var(--main)">Owner</p>
                 <a href="https://github.com/ToothyDev" target="_blank"><i class="fab fa-github" style="color: var(--main); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
@@ -28,7 +28,7 @@
                 <a href="https://discord.com/users/341988909363757057" target="_blank"><i class="fab fa-discord" style="color: var(--main); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
-                <img src="assets/images/team/joshua.gif" class="owner" alt="">
+                <img src="<?php getAv(839237573595365406); ?>" class="owner" alt="">
                 <h2 style="color: var(--main)">Spyro (Joshua)</h2>
                 <p style="color: var(--main)">Owner</p>
                 <a href="https://github.com/DeltaSLM" target="_blank"><i class="fab fa-github" style="color: var(--main); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
