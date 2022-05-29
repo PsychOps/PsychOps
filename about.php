@@ -19,7 +19,7 @@
 
     <div class="text-center">
         <div class="container">
-            <img src="<?php getAv(980183959923195904); ?>" alt="Val, our mascot!" style="height: 400px; border-radius: 25px">
+            <img src="/assets/images/psychops/val_icon-1.jpeg" alt="Val, our mascot!" style="height: 400px; border-radius: 25px">
             <br>Meet Val, our mascot!
         </div>
     </div>
