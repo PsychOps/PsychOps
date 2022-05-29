@@ -22,7 +22,7 @@
                 <a href="mailto:joshua@psychops.tk" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
-                <a href="https://heelys32.ml" target="_blank"><img src="<?php getAv(370258256775479307); ?>" class="owner" alt="Heelys' avatar"></a>
+                <a href="https://www.heelys32.ml" target="_blank"><img src="<?php getAv(370258256775479307); ?>" class="owner" alt="Heelys' avatar"></a>
                 <h2>Heelyx23 (Manuel)</h2>
                 <p>Owner</p>
                 <a href="https://github.com/Hilex23" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
