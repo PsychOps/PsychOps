@@ -5,6 +5,8 @@
 
 <?php include 'templates/navbar.html' ;?>
 
+<?php include '/assets/php/userav.php'; ?>
+
 <div class="team container text-center">
 <h1 class="main-title">Our credits:</h1>
 <p class="main-text"> we wand to say tanks to </p>
