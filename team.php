@@ -63,8 +63,8 @@
                 <a href="https://discord.com/users/820255805257023498" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
-                <img src="<?php getAv(360782146899804161); ?>" class="social-manager" alt="Matt's avatar">
-                <h2>MattGold</h2>
+                <img src="<?php getAv(360782146899804161); ?>" class="social-manager" alt="Angelique's avatar">
+                <h2>Angelique</h2>
                 <p>Social Media Manager</p>
                 <a href="https://github.com/MattGold-5829" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://twitter.com/MattGold_" target="_blank"><i class="fab fa-twitter" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
