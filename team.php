@@ -19,7 +19,7 @@
                 <a href="https://github.com/DeltaSLM" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://twitter.com/JamesStrEVs" target="_blank"><i class="fab fa-twitter" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://discord.com/users/839237573595365406" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
-                <a href="mailto:joshua@psychops.tk" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
+                <a href="mailto:joshua@psychops.eu" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
                 <a href="https://www.heelys32.ml" target="_blank"><img src="<?php getAv(370258256775479307); ?>" class="owner" alt="Heelys' avatar"></a>
@@ -28,7 +28,7 @@
                 <a href="https://github.com/Hilex23" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://twitter.com/hilex23" target="_blank"><i class="fab fa-twitter" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="https://discord.com/users/370258256775479307" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
-                <a href="mailto:manuel@psychops.tk" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
+                <a href="mailto:manuel@psychops.eu" target="_blank"><i class="fa-solid fa-at" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
                 <img src="<?php getAv(227464680237432833); ?>" class="executive" alt="Jimi's avatar">
