@@ -18,7 +18,7 @@
     <div class="container">
         <h1>Job positions</h1>
         <div class="list">
-            <a href="/assets/developer.php" style="text-decoration: none; color: inherit">
+            <a href="/jobs/developer.php" style="text-decoration: none; color: inherit">
                 <div class="entry entry-success">Developer</div>
             </a>
             <div class="entry entry-danger">Executive positions</div>
