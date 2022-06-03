@@ -114,7 +114,7 @@
     <div class="blackground" id="contact">
         <div class="container">
             <h2>Contact us</h2>
-            <p>You can contact us for concerns, questions and inquiries at <a href="mailto:contact@psychops.tk">contact@psychops.tk</a>. If you wish to send an e-mail privately, you may do so through <a href="mailto:joshua@psychops.tk">joshua@psychops.tk</a> or <a href="mailto:manuel@psychops.tk">manuel@psychops.tk</a>. If you are merely looking for support or are seeking for alternative ways to get support, you may try the "contact us" dropdown in our navigation bar.</p>
+            <p>You can contact us for concerns, questions and inquiries at <a href="mailto:contact@psychops.eu">contact@psychops.eu</a>. If you wish to send an e-mail privately, you may do so through <a href="mailto:joshua@psychops.eu">joshua@psychops.eu</a> or <a href="mailto:manuel@psychops.eu">manuel@psychops.eu</a>. If you are merely looking for support or are seeking for alternative ways to get support, you may try the "contact us" dropdown in our navigation bar.</p>
         </div>
     </div>
 
