@@ -15,7 +15,7 @@
             Additionally, they ensure our products work as they are supposed to,
             by fixing bugs, glitches and any other issues that may arise.</p>
         <br>
-        <a href="mailto:contact@psychops.tk" class="txt-btn">Interested? mail us!</a>
+        <a href="mailto:contact@psychops.eu" class="txt-btn">Interested? mail us!</a>
     </div>
 </div>
 
