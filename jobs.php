@@ -30,7 +30,7 @@
 <div class="whiteground">
     <div class="container">
         <h1>Others</h1>
-        Additionally to the job vacancies listed above, we also offer a few positions in our organization that do not include any of the obligations and, or tasks that are relevant to the actual jobs. If you are interested in one of the below listed positions, feel free to contact us at <a href="mailto:contact@psychops.tk">contact@psychops.tk</a> with proof of your work and what you'd like to be. We welcome suggestions and feedback on positions within PsychOps Studios actively.
+        Additionally to the job vacancies listed above, we also offer a few positions in our organization that do not include any of the obligations and, or tasks that are relevant to the actual jobs. If you are interested in one of the below listed positions, feel free to contact us at <a href="mailto:contact@psychops.eu">contact@psychops.eu</a> with proof of your work and what you'd like to be. We welcome suggestions and feedback on positions within PsychOps Studios actively.
         <br> <br>
         <ul>
             <li>Graphic Designer</li>
