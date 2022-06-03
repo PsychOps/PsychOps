@@ -98,14 +98,14 @@
     <div class="blackground" id="removal">
         <div class="container">
             <h2>Data removal requests</h2>
-            <p>Our users reserve the right to request the removal of any data that we may or may not have saved in our database(s). Requests can be submitted through <a href="mailto:support@psychops.tk">support@psychops.tk</a>. Please <b>provide your discord user ID</b> and for Pingernos <b>the guild ID</b>. Without either of these two, we cannot comply with your request. Data removal can take up to 30 days, and an e-mail will be sent back upon completion.</p>
+            <p>Our users reserve the right to request the removal of any data that we may or may not have saved in our database(s). Requests can be submitted through <a href="mailto:support@psychops.eu">support@psychops.eu</a>. Please <b>provide your discord user ID</b> and for Pingernos <b>the guild ID</b>. Without either of these two, we cannot comply with your request. Data removal can take up to 30 days, and an e-mail will be sent back upon completion.</p>
         </div>
     </div>
 
     <div class="whiteground" id="rights">
         <div class="container">
             <h2>User Rights</h2>
-            <p>By law, our users reserve the right to know what data has been collected and stored in our database(s), as well as the right to get their data removed as described above. We accept inquiries for these requests at <a href="mailto:support@psychops.tk">support@psychops.tk</a> and nowhere else, for privacy concerns. Please note that we will not comply with requests to see and, or remove data belonging to other individuals which are not yourself. Additionally, when inquiring, you are required to provide proof that you are in fact the person to whom the data belongs.</p>
+            <p>By law, our users reserve the right to know what data has been collected and stored in our database(s), as well as the right to get their data removed as described above. We accept inquiries for these requests at <a href="mailto:support@psychops.eu">support@psychops.eu</a> and nowhere else, for privacy concerns. Please note that we will not comply with requests to see and, or remove data belonging to other individuals which are not yourself. Additionally, when inquiring, you are required to provide proof that you are in fact the person to whom the data belongs.</p>
             <p>Furthermore, according to <a href="https://gdpr-info.eu/art-8-gdpr/">GDPR</a>, you have the right to lodge a complaint with a supervisory authority if you believe that the processing of your personal data is illicit.</p>
             <p>You are only authorized to agree to this policy if you are at least 16 years old (or less if your country has different regulations) or if consent is given by the holder of your parental responsibility. You can read the <a href=#children>"Children under the age of 16"</a> section for more info. PsychOps Studios does not hold itself accountable for unwarranted data collection of anyone younger than the minimal age of consent for data collection.</p>
         </div>
