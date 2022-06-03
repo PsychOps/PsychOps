@@ -10,7 +10,7 @@
     <div class="about container text-center page-center">
         <h1 class="main-title">About PsychOps Studios</h1>
         <p class="main-text">
-            PsychOps started with the vision of creating free, open-source products. Started by <a href="mailto:joshua@psychops.tk">Joshua</a> and owned together with <a href="mailto:manuel@psychops.tk">Manuel</a>. The organization is located in The Netherlands, but operates online and under European regulation. Our main focus in our products is to give users something new and fresh without any hidden costs, while giving them something to their liking. PsychOps Studios supports FOSS and will always keep products open-source through github.
+            PsychOps started with the vision of creating free, open-source products. Started by <a href="mailto:joshua@psychops.eu">Joshua</a> and owned together with <a href="mailto:manuel@psychops.eu">Manuel</a>. The organization is located in The Netherlands, but operates online and under European regulation. Our main focus in our products is to give users something new and fresh without any hidden costs, while giving them something to their liking. PsychOps Studios supports FOSS and will always keep products open-source through github.
         </p>
         <div class="txt-btn-div">
             <a href="https://discord.gg/QMhvHuGPMx" target="_blank" class="txt-btn">Discord Server</a>
