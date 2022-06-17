@@ -9,7 +9,7 @@
 
     <div class="team container text-center">
         <h1 class="main-title">Project Requests</h1>
-        <p class="main-text">We offer the possibility to <b>freely</b> request us to develop projects for you. This mainly includes personal websites, but can also include professional websites or other types of projects such as discord bots. Of course, because it's completely free (without any hidden catch), we can't take all requests coming our way and must carefully review each one. We don't have specific criteria, but please feel free to always contact us with your request at <a href="mailto:contact@psychops.eu" target="_blank">contact@psychops.eu</p>
+        <p class="main-text">We offer the possibility to <b>freely</b> request us to develop projects for you. This mainly includes personal websites, but can also include professional websites or other types of projects such as discord bots. Of course, because it's completely free (without any hidden catch), we can't take all requests coming our way and must carefully review each one. We don't have specific criteria, but please feel free to always contact us with your request at <a href="mailto:contact@psychops.eu" target="_blank">contact@psychops.eu</a>.</p>
         <div class="team-row">
             <div class="member">
                 <img src="assets/images/psychops/logo.png" class="owner" alt="">
