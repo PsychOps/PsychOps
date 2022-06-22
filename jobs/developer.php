@@ -84,7 +84,7 @@
                     <span class="arrow"></span>
                 </a>
                 <ul class="submenu">
-                    <li><a href="/pingernos.php" class="menu-link">Pingernos</a></li>
+                    <li><a href="https://psychops.github.io/Pingernos-web/" class="menu-link">Pingernos</a></li>
                 </ul>
             </li>
             <li class="has-dropdown">
