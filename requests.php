@@ -15,7 +15,7 @@
                 <img src="assets/images/psychops/logo.png" class="owner" alt="">
                 <h2>MG</h2>
                 <p>W.I.P. request</p>
-                <a href="https://github.com/PsychOps/MGweb" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
+                <a href="https://github.com/PsychOps/MinecraftGolden-website" target="_blank"><i class="fab fa-github" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
                 <a href="#" target="_blank"><i class="fab fa-discord" style="color: var(--txt); font-size: 30px; margin-right: 10px; margin-left: 10px;" aria-hidden="true"></i></a>
             </div>
             <div class="member">
