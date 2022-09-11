@@ -13,7 +13,7 @@
             PsychOps started with the vision of creating free, open-source products. Started by <a href="mailto:joshua@psychops.eu">Joshua</a> and owned together with <a href="mailto:manuel@psychops.eu">Manuel</a>. The organization is located in The Netherlands, but operates online and under European regulation. Our main focus in our products is to give users something new and fresh without any hidden costs, while giving them something to their liking. PsychOps Studios cannot continue it's journey without the support of others, so does this sound like something you support as well? Send us a partner request!
         </p>
         <div class="txt-btn-div">
-            <a href="mailto:contact@psychops.eu" target="_blank" class="txt-btn">Mail us</a>
+            <a href="mailto:contact@psychops.eu" target="_blank" class="txt-btn">Email Us</a>
         </div>
     </div>
 

@@ -1,7 +1,7 @@
 @import url(/assets/css/variables.css);
 
 header {
-  background: var(--header-bg);
+  background: var(--dark-grey);
   padding-left: 1.5em;
   padding-right: 1.5em;
   position: sticky;
@@ -11,7 +11,7 @@ header {
 .branding-logo {
   display: flex;
   flex-direction: row;
-  color: var(--header-txt);
+  color: var(--white);
   font-size: 2vh;
   text-decoration: none;
   transition: 0.2s;
@@ -19,7 +19,7 @@ header {
 }
 
 .branding-logo:hover {
-  color: var(--header-hover);
+  color: var(--light-blue);
   transition: 0.2s;
 }
 
@@ -48,7 +48,7 @@ header {
 .menu li a {
   display: block;
   text-decoration: none;
-  color: var(--header-txt);
+  color: var(--white);
   padding: 1em 1.5em;
   font-size: 1rem;
   transition: 0.2s;
@@ -62,9 +62,9 @@ header {
 .submenu {
   position: absolute;
   left: 0;
-  background-color: var(--header-txt-bg);
+  background-color: var(--dark-grey);
   white-space: nowrap;
-  padding: 1.5em 0;
+  padding: 0;
   min-width: 16em;
   opacity: 0;
   transform: scaleY(0);
@@ -88,12 +88,12 @@ header {
 .menu > li:hover > a,
 .submenu > li:hover > a {
   background-color: hsla(0, 0%, 100%, 0.05);
-  color: var(--header-hover);
+  color: var(--light-blue);
   transition: 0.2s;
 }
 
 .menu > li:hover > a {
-  background-color: hsla(0, 0%, 0%, 0.95);
+  background-color: hsla(0, 0%, 0%, 0.10);
 }
 
 .arrow {
@@ -103,7 +103,7 @@ header {
   vertical-align: middle;
   border-left: 0.15em solid currentColor;
   border-bottom: 0.15em solid currentColor;
-  transform: rotate(-45deg);
+  transform: rotate(-135deg);
   margin-top: -0.25em;
   margin-left: 0.25rem;
   transition: transform 100ms ease-in-out;
@@ -118,7 +118,7 @@ header {
 
 .menu > li:hover > a > .arrow,
 .submenu > li:hover > a > .arrow {
-  transform: rotate(225deg);
+  transform: rotate(-45deg);
   transition: 0.2s;
 }
 
@@ -144,7 +144,7 @@ header {
   .menu {
     flex-flow: column;
     position: absolute;
-    background: var(--header-txt);
+    background: var(--dark-grey);
     top: 4.55em;
     left: 0;
     right: 0;
@@ -157,15 +157,16 @@ header {
   }
   .menu > li > a {
     font-size: 1rem;
-    color: var(--header-txt-bg);
+    color: var(--white);
   }
   .submenu > li > a {
     font-size: 1rem;
+    padding-left: 1.5em;
   }
   .submenu {
     top: 0;
     padding-left: 1.5em;
-    border-left: 0.12em dotted hsla(342, 99%, 45%, 0.95);
+    border-left: 0.12em dotted var(--light-blue);
   }
   .submenu .submenu {
     left: 0;
@@ -183,7 +184,7 @@ header {
     width: 2em;
     height: 0.25em;
     display: block;
-    background: var(--header-txt);
+    background: var(--light-grey);
     position: relative;
     cursor: pointer;
     transition: 0.2s transform ease-in-out;

@@ -10,22 +10,30 @@
     padding: 0;
 }
 
+a {
+    color: var(--dark-blue);
+}
+
 body {
-    background-color: var(--main);
-    color: var(--txt);
+    background-color: var(--light-grey);
+    color: var(--dark-grey);
     font-size: 1rem;
     font-family: 'Play', sans-serif;
 }
 
 .blackground {
-    background: var(--main-black);
-    color: var(--main);
+    background: var(--dark-grey);
+    color: var(--light-grey);
     padding: 2rem;
 }
 
+.blackground a {
+    color: var(--light-blue);
+}
+
 .whiteground {
-    background: var(--main);
-    color: var(--main-black);
+    background: var(--light-grey);
+    color: var(--dark-grey);
     padding: 2rem;
 }
 
@@ -44,17 +52,17 @@ body {
 
 .list-success .entry, .list .entry.entry-success {
     background-color: var(--success);
-    color: var(--main-black);
+    color: var(--dark-grey);
 }
 
 .list-danger .entry, .list .entry.entry-danger {
     background-color: var(--danger);
-    color: var(--main-black);
+    color: var(--white);
 }
 
 .list-info .entry, .list .entry.entry-info {
     background-color: var(--information);
-    color: var(--main-black);
+    color: var(--dark-grey);
 }
 
 .list .entry {
@@ -108,7 +116,7 @@ body {
 }
 
 .txt-btn:hover {
-    color: #56fee1;
+    color: var(--light-blue);
     background-color: hsla(0, 0%, 0%, 0.95);
     transition: 0.2s;
 }
@@ -206,13 +214,13 @@ body {
 .member h2 {
     text-transform: uppercase;
     font-size: 24px;
-    color: var(--header);
+    color: var(--dark-grey);
     margin: 15px 0;
 }
 
 .member p {
     font-size: 20px;
-    color: var(--txt);
+    color: var(--dark-grey);
     text-transform: uppercase;
     line-height: 1.6;
 }
@@ -230,4 +238,8 @@ body {
 .double-btn {
     margin-right: 10vh;
     margin-left: 10vh;
+}
+
+.branding > h2 {
+    margin-bottom: 0;
 }
