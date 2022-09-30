@@ -65,10 +65,11 @@ header {
   background-color: var(--dark-grey);
   white-space: nowrap;
   padding: 0;
-  min-width: 16em;
+  min-width: 100%;
   opacity: 0;
   transform: scaleY(0);
   transform-origin: top center;
+  border-radius: 0 0 8px 8px;
 }
 
 .submenu > li > a {
@@ -78,6 +79,7 @@ header {
 .submenu .submenu {
   left: -100%;
   top: 0;
+  border-radius: 8px 0 0 8px;
 }
 
 .submenu .submenu .submenu {
@@ -129,6 +131,10 @@ header {
   }
   .submenu {
     min-width: 16em;
+    border-radius: 0;
+  }
+  .submenu .submenu {
+    border-radius: 0;
   }
 }
 @media only screen and (max-width: 58.75em) {
