@@ -1,0 +1,32 @@
+body{
+    background-color: #eee;
+}
+.card{
+    background-color: white;
+    width: 280px;
+    border-radius: 33px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.top-container{
+    display: flex;
+    align-items: center;
+    /*gap: 0.25rem;*/
+}
+.profile-image{
+    border-radius: 50%;
+    border: 2px solid #5957f9;
+}
+.name{
+    font-size: 15px;
+    font-weight: bold;
+    color: #272727;
+    position: relative;
+    top: 8px;
+}
+.mail{
+    font-size: 14px;
+    color: grey;
+    position: relative;
+    top: 2px;
+}
